@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/DrHuaLin/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img style="float: center; width: 1000px; margin: 0px 5px 5px" src="images/Family3.jpg">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# <img style="float: center; width: 40px; margin: 0px 0px 0px" src="images/logo-goldB.jpg"> Hua Lin, Ph.D
 
-### Markdown
+  
+**Home** \ **Research** \ **Publications** \ **Workshops** 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***********
 
-```markdown
-Syntax highlighted code block
+<img style="float: right; width: 270px; margin: 0px 5px 20px" src="images/Me_regards1.png">
 
-# Header 1
-## Header 2
-### Header 3
+## Aount Me
+Hua Lin, Ph.D <br />
+Developmental and family scientist <br />
+Quantitative research methodologist  <br />
+Post-doctoral fellow  <br />
+Working on several NIH funding projects  <br />
+*Department of Human Development and Family Science* <br />
+@Oklahoma State University <br />
 
-- Bulleted
-- List
+## Contact Me
+[hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />
+[Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)  <br />
+[Webpage](https://drhualin.github.io/)  <br />
+[ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)  <br />
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Research Interests
+> One of my research interests is the development of parent-child interactions, in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
+>
+> My research interest in immigrant youth well-being focuses on how immigrant-related stress impacts Latinx adolescent health and behavior and how a psycho-educational intervention can buffer against stress and/or ameliorate the effects of stress in Latinx immigrant families from a resilience perspective.
+>
+> My research interest in quantitative methods is enhancing causal evidence from non-randomized longitudinal research designs, cross-cultural psychometric appropriations (including Item Response Theory), and statistic model comparison (mediation moderation, propensity score matching, SEM models, HLM models, Latent class analysis, dual-centered ANCOVA, etc.). 
 
-[Link](url) and ![Image](src)
-```
+> I am also applying statistical software such as Stata, Mplus, R, SAS, and Python in research and teaching. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshop (e.g., Introduction to R) and Software Workshop (e.g., Python).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> [More...](/research)
 
-### Jekyll Themes
+## Recent Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DrHuaLin/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> - **Lin, H.**, & Larzelere, R. E. (in press). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*.
+>
+> - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](http:/doi.org/10.1016/j.adolescence.2020.04.007)
+>
+> - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [doi:10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).
+>
+> [More Publicaitons...](/publications)
 
-### Support or Contact
+## Recent Presentations
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> - Lin, H., Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper wil be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+>
+> - Sahbaz S., Cox, R., Lin, H., Washburn, I. J., & Greder, K. (November, 2020). Pediatric Psychological Stress Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+>
+> - Cox, R., Sahbaz S., Lin, H., Washburn, I. J., & Greder, K. (November, 2020). Fear of Deportation Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+>
+> - Washburn, I. J., Lin, H., Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations.
+
+[More Presentations...](/publications/#referred-conference-presentations)

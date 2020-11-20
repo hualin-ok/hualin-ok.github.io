@@ -31,7 +31,8 @@ permalink: /research/
 >
 > - *2014*   National Institute of Food and Agriculture (2014-2019).  CYFAR Iowa State Sustainable Community Project: Together for a Better Education. Subcontract $64,800.  R. Cox, Lead Evaluator.
 
-<h2> Research - The Development of Parent-child Interactions</h2>
+## Research Interests
+### The Development of Parent-child Interactions
 
 > - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](https://doi.org/10.1016/j.adolescence.2020.04.007).
 >
@@ -43,8 +44,7 @@ permalink: /research/
 >
 > -  Harrist, A. W., Rutledge, J., Liu, C., & **Lin, H.** (March, 2015). Inter-Parent Aggression Predicts Children’s Relationally but not Physically Aggressive Social Problem Solving. Poster presented at the 2015 biennial meeting of the Society for Research in Child Development, Philadelphia, PA. 
 >
-
-<h2> Research - Resilience in Immigrant Families</h2>
+### Resilience in Immigrant Families
 
 > - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (under review). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
 >
@@ -55,7 +55,7 @@ permalink: /research/
 > -  **Lin, H.**, & Henry C. S. (March, 2015). A Conceptual Framework of Family Resilience: Resilience in International Graduate Student Families. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 >
 
-<h2> Research - Making Causal Inference in Nonramdomized Studies</h2>
+### Making Causal Inference in Nonramdomized Studies
 
 > - **Lin, H.**, & Larzelere, R. E. (in press). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*.
 >
@@ -67,7 +67,7 @@ permalink: /research/
 >
 > -  **Lin, H.** & Larzelere, R. E (March 2019). Two Methods for Getting Consistent Results from Simple Change Scores and Residualized Change Scores. Poster was presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD.
 
-<h2> Research - Cross-cultural Psychometric Appropriations</h2>
+### Cross-cultural Psychometric Appropriations
 
 > - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (invited resubmission). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >
@@ -77,7 +77,7 @@ permalink: /research/
 >
 > - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (under review), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*.  
 
-<h2> Research - Data Visualization</h2>
+### Data Visualization
 
 > - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [doi:10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).
 >

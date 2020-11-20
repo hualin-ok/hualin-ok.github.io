@@ -44,6 +44,7 @@ permalink: /research/
 >
 > -  Harrist, A. W., Rutledge, J., Liu, C., & **Lin, H.** (March, 2015). Inter-Parent Aggression Predicts Children’s Relationally but not Physically Aggressive Social Problem Solving. Poster presented at the 2015 biennial meeting of the Society for Research in Child Development, Philadelphia, PA. 
 >
+
 ### Resilience in Immigrant Families
 
 > - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (under review). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.

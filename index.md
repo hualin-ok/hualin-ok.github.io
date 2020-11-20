@@ -63,6 +63,6 @@ Working on several NIH funding projects  <br />
 [More Presentations...](/publications/#referred-conference-presentations)
 
 ***********************
-<h8><div style="text-align: right">By: Hua Lin: hua.lin@okstate.edu</div></h8>
+<h8><div style="text-align: right">By: Hua Lin, hua.lin@okstate.edu</div></h8>
 
 

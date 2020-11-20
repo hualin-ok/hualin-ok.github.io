@@ -61,3 +61,6 @@ Working on several NIH funding projects  <br />
 > - Washburn, I. J., Lin, H., Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations.
 
 [More Presentations...](/publications/#referred-conference-presentations)
+
+***********************
+

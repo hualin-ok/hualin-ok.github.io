@@ -14,7 +14,7 @@ permalink: /publications/
 
 ## Publications
 
-> 6. **Lin, H.**, & Larzelere, R. E. (in press). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. doi:10.1016/j.adolescence.2020.11.001.
+> 6. **Lin, H.**, & Larzelere, R. E. (in press). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [doi:10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001).
 >
 > 5. **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](https://doi.org/10.1016/j.adolescence.2020.04.007).
 >

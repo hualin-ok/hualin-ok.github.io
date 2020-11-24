@@ -100,7 +100,7 @@ permalink: /publications/
 >
 > -  Sahbaz S., Cox, R., Lin, H., Washburn, I. J., & Greder, K. (October, 2020). Pediatric Psychological Stress Measure: Evidence for Use in a Latino Sample. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference due to COVID-19.
 >
-> -  **Lin, H.** (September, 2020). Dual-centered ANCOVA: Modifying ANCOVA to Model within-Person Change. Poster was presented at the 2020 Women in Statistics and Data Science Virtual Conference. 
+> -  **Lin, H.** (September, 2020). Dual-centered ANCOVA: Modifying ANCOVA to Model within-Person Change. Poster was presented at the 2020 Women in Statistics and Data Science Virtual Conference. [Go to the conference](https://ww2.amstat.org/meetings/wsds/2020/onlineprogram/AbstractDetails.cfm?AbstractID=309601)
 >
 > -  **Lin, H.**, & Larzelere, R. E. (August, 2020). A Reanalysis of the Effect of Child Care Subsidies on Maternal Characteristics in Fragile Families. Poster was presented at the 2020 annual American Psychological Association Convention, Washington, DC.
 >

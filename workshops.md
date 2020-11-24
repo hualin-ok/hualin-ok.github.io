@@ -42,7 +42,6 @@ permalink: /workshops/
 >
 ### Software Carpentry Workshops
 > Automating tasks with Unix Shell, building programs with Python, and version control with Git
-> - [February 2020](https://osu-carpentry.github.io/2020-02-06-okstate/)
 >
 > - [November 2019](https://osu-carpentry.github.io/2019-11-01-okstate/)
 

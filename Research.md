@@ -8,7 +8,7 @@ permalink: /research/
 <h1> <img style="float: center; width: 40px; margin: 0px 0px 0px" src="/images/logo-goldB.jpg">  Hua Lin, Ph.D </h1>
 
   
-[**Home**](/)  \ [**About**](/about) \ [**Research**](/research) \ [**Publications**](/publications.md)\ **Workshops** 
+[**Home**](/)  \ [**About**](/about) \ [**Research**](/research) \ [**Publications**](/publications.md)\  [**Workshops**](/workshops) 
 
 ***********
 

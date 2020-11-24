@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workshops
-permalink: /workshop/
+permalink: /workshops/
 ---
 
 <a href="http://drhualin.github.io"><img style="float: right; width: 90px; margin: 0px 5px 20px" src="/images/Me_regards1.png">

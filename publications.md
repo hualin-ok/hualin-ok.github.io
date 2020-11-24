@@ -114,7 +114,7 @@ permalink: /publications/
 >
 > -  **Lin, H.**, & Larzelere, R. E. (November, 2017). The Effect of Open-Handed Spanking and More Severe Physical Punishment on Child Aggression: A Propensity-Score Adjustment Approach. Poster presented at the conference of the National Council on Family Relations, Orlando, FL.
 >
-> -  **Lin, H.**, & Larzelere, R. E. (August, 2016). Maternal Negative Affect: Moderator and Mediator of Using Power Assertion for Toddler Noncompliance. Poster presented at the 2016 annual American Psychological Association Convention, Denver, CO. [Poster Snapshop](/poster/NegAff_2016APA.md)
+> -  **Lin, H.**, & Larzelere, R. E. (August, 2016). Maternal Negative Affect: Moderator and Mediator of Using Power Assertion for Toddler Noncompliance. Poster presented at the 2016 annual American Psychological Association Convention, Denver, CO. [Poster Snapshop](/post/NegAff_2016APA.md)
 >
 > -  Harrist, A. W., Rutledge, J., Liu, C., & **Lin, H.** (March, 2015). Inter-Parent Aggression Predicts Children’s Relationally but not Physically Aggressive Social Problem Solving. Poster presented at the 2015 biennial meeting of the Society for Research in Child Development, Philadelphia, PA. 
 >

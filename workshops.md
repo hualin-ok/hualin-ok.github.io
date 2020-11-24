@@ -16,6 +16,12 @@ permalink: /workshops/
 
 > I am serving as an instructor at OSU Carpentry Organization. Our workshops teach researchers and students how to use open-source software tools and computing resources such as R, Python, OpenRefine, and Git, using Software Carpentry and Data Carpentry organizations’ learning materials. 
 
+### R Online Workshops
+> Data manipulation, analysis, and visualization in R
+> - [Nobember 2020, R for Geospatial Data](https://osu-carpentry.github.io/2020-11-06-okstate/)
+>
+> - [October 2020, R for social science](https://osu-carpentry.github.io/2020-10-26-okstate)
+
 ### Python Online Workshops
 > building programs with Python, plotting and programming in Python
 > - [September 2020](https://osu-carpentry.github.io/2020-09-28-okstate) 
@@ -23,11 +29,6 @@ permalink: /workshops/
 > - [June 2020](https://osu-carpentry.github.io/2020-06-11-okstate/)
 >
 > - [May 2020](https://osu-carpentry.github.io/2020-05-11-okstate/)
-
-### R Online Workshops
-> - [Nobember 2020, R for Geospatial Data](https://osu-carpentry.github.io/2020-11-06-okstate/)
->
-> - [October 2020, R for social science](https://osu-carpentry.github.io/2020-10-26-okstate)
 
 ### Data Carpenty Workshops
 > Data organization in Spreadsheet, data clean up in OpenRefine, and data manipulation, analysis, and visualization in R

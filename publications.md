@@ -94,11 +94,11 @@ permalink: /publications/
 
 ### Poster presentations
 >
-> -  **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (October, 2020). The path from fear of deportation to immigrant Latino Youth ATOD use, Anxiety, and Cognitive Dysfunction. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference due to COVID-19.
+> -  **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (October, 2020). The path from fear of deportation to immigrant Latino Youth ATOD use, Anxiety, and Cognitive Dysfunction. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference.
 >
-> -  Cox, R., Washburn, I. J., Lin, H., Sahbaz S., & Greder, K. (October, 2020). Measuring Immigrant Latino Youth Fear of Deportation and Hope. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference due to COVID-19.
+> -  Cox, R., Washburn, I. J., Lin, H., Sahbaz S., & Greder, K. (October, 2020). Measuring Immigrant Latino Youth Fear of Deportation and Hope. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference.
 >
-> -  Sahbaz S., Cox, R., Lin, H., Washburn, I. J., & Greder, K. (October, 2020). Pediatric Psychological Stress Measure: Evidence for Use in a Latino Sample. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference due to COVID-19.
+> -  Sahbaz S., Cox, R., Lin, H., Washburn, I. J., & Greder, K. (October, 2020). Pediatric Psychological Stress Measure: Evidence for Use in a Latino Sample. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference.
 >
 > -  **Lin, H.** (September, 2020). Dual-centered ANCOVA: Modifying ANCOVA to Model within-Person Change. Poster was presented at the 2020 Women in Statistics and Data Science Virtual Conference. [Go to the conference](https://ww2.amstat.org/meetings/wsds/2020/onlineprogram/AbstractDetails.cfm?AbstractID=309601)
 >

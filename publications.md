@@ -108,7 +108,7 @@ permalink: /publications/
 >
 > -  Larzelere, R. E., Beasley, L. & **Lin, H.** (June, 2020). Can Age-Appropriate Reasoning Potentially Improve Behavioral Parent Training for Oppositional Preschoolers? Poster was presented at the Journal of Clinical Child and Adolescent Psychology 4th Future Directions Forum, Virtual conference. 
 >
-> -  **Lin, H.** Harrist A. W., Lansford, J. E., Pettit, G. S., Bates, J. & Dodge, K. A. (March 2019). Parental Control and Social withdrawal Across Seven Adolescent Years: A developmental Cascade Model. Poster presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD.[Poster Snapshop](/post/Lin_Harrist_SRCD2019.md)
+> -  **Lin, H.** Harrist A. W., Lansford, J. E., Pettit, G. S., Bates, J. & Dodge, K. A. (March 2019). Parental Control and Social withdrawal Across Seven Adolescent Years: A developmental Cascade Model. Poster presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD. [Poster Snapshop](/post/Lin_Harrist_SRCD2019.md)
 >
 > -  **Lin, H.** & Larzelere, R. E (March 2019). Two Methods for Getting Consistent Results from Simple Change Scores and Residualized Change Scores. Poster was presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD.
 >

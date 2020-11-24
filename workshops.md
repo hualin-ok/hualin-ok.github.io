@@ -14,7 +14,7 @@ permalink: /workshops/
 
 ## Data/Software Workshops @ OSU
 
-> I am serving as an instructor at OSU Carpentry Organization. Our workshops help researchers and students improve the quality and efficiency of their work by teaching them how to use open-source software tools and computing resources, using Software Carpentry and Data Carpentry organizations’ learning materials. 
+> I am serving as an instructor at OSU Carpentry Organization. Our workshops teach researchers and students how to use open-source software tools and computing resources such as R, Python, OpenRefine, and Git, using Software Carpentry and Data Carpentry organizations’ learning materials. 
 
 ### Python Online Workshops
 > building programs with Python, plotting and programming in Python

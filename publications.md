@@ -114,7 +114,7 @@ permalink: /publications/
 >
 > -  **Lin, H.** Harrist A. W., Lansford, J. E., Pettit, G. S., Bates, J. & Dodge, K. A. (March 2019). Parental Control and Social withdrawal Across Seven Adolescent Years: A developmental Cascade Model. Poster presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD. [Poster Snapshop](/post/Lin_Harrist_SRCD2019.md)
 >
-> -  **Lin, H.** & Larzelere, R. E (March 2019). Two Methods for Getting Consistent Results from Simple Change Scores and Residualized Change Scores. Poster was presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD.
+> -  **Lin, H.** & Larzelere, R. E (March 2019). Two Methods for Getting Consistent Results from Simple Change Scores and Residualized Change Scores. Poster was presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD. [Poster Snapshop](/post/Lin_Larz_SRCD2019.md)
 >
 > -  **Lin, H.**, & Larzelere, R. E. (November, 2017). The Effect of Open-Handed Spanking and More Severe Physical Punishment on Child Aggression: A Propensity-Score Adjustment Approach. Poster presented at the conference of the National Council on Family Relations, Orlando, FL.
 >

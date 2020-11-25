@@ -3,8 +3,6 @@ layout: default
 title: temp
 ---
 
-## This is a test
-
 {{ content }}
 <ul class="myposts">
 {% for post in site.posts %}

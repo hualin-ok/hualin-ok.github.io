@@ -6,8 +6,8 @@ title: temp
 {{ content }}
 <ul class="myposts">
 {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h1>{{ post.title }}</h1>
+       <li><a href="{{ post.url }}">{{ post.title}}</a>
     </li>
 {% endfor %}
 </ul>

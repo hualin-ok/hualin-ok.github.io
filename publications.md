@@ -47,6 +47,7 @@ permalink: /publications/
 > - **Lin, H.** (November 2018). Possible Solutions for Lord’s Paradox with Implications for Valid Causal Inferences in Longitudinal Analyses. Paper presented at the Oklahoma State University Statistics/Methods Network brown-bag lunch, Stillwater, OK.
 
 ### Conference Symposium 
+#### Science Is Only as Good as Its Measures - NCFR 2020
 >
 > - **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
 >
@@ -56,6 +57,7 @@ permalink: /publications/
 >
 > -  Washburn, I. J., **Lin, H.**, Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations. 
 >
+#### Fear of Deportation, Stress, and Latino Immigrant Youth Mental, Emotional, and Behavioral Health: Can Hope Make a Difference? - NCFR 2019 
 > -  **Lin, H.**, Sahbaz, S., Nolasco, H., Anderson, M., & Cox, R. (November, 2019). Cognitive Functioning, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas.
 >
 > -  Anderson, M., Sahbaz, S., **Lin, H.**, Nolasco, H., & Cox, R. (November, 2019). Depression, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas. 
@@ -66,17 +68,18 @@ permalink: /publications/
 >
 > -  Sahbaz, S., **Lin, H.**, Anderson, M., Nolasco, H., & Cox, R. (November, 2019). Aggression, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas. 
 >
-> -  **Lin, H.**, Sahbaz, S., Anderson, M., Nolasco, H., Washburn, I. J., Cox, R. (May, 2019). Emerging, Hot Topic: Substance Use, Fear of Deportation, Stress, and Hope Among Latino Immigrant Youth. Paper presented in a paper symposium at the Society for Prevention Research 27th Annual Meeting, San Francisco, CA.
+#### Emerging, Hot Topic: Fear of Deportation, Stress, and Latino Immigrant Youth Mental, Emotional, and Behavioral Health: Can Hope Make a Difference? - SPR 2019 
+> -  **Lin, H.**, Sahbaz, S., Anderson, M., Nolasco, H., Washburn, I. J., Cox, R. (May, 2019). Substance Use, Fear of Deportation, Stress, and Hope Among Latino Immigrant Youth. Paper presented in a paper symposium at the Society for Prevention Research 27th Annual Meeting, San Francisco, CA.
 >
-> -  Cox, R., Anderson, M., Nolasco, H., Sahbaz, S., Washburn, I. J., **Lin, H.** (May, 2019). Emerging, Hot Topic: Anxiety, Fear of Deportation, Stress, and Hope Among Latino Immigrant Youth. Paper presented in a paper symposium at the Society for Prevention Research 27th Annual Meeting, San Francisco, CA.
+> -  Cox, R., Anderson, M., Nolasco, H., Sahbaz, S., Washburn, I. J., **Lin, H.** (May, 2019). Anxiety, Fear of Deportation, Stress, and Hope Among Latino Immigrant Youth. Paper presented in a paper symposium at the Society for Prevention Research 27th Annual Meeting, San Francisco, CA.
 >
-> -  Sahbaz, S., **Lin, H.**, Anderson, M., Nolasco, H., Washburn, I. J., Cox, R. (May, 2019). Emerging, Hot Topic: Emotional and Behavioral Dyscontrol, Fear of Deportation, Stress, and Hope Among Latino Immigrant Youth. Paper presented in a paper symposium at the Society for Prevention Research 27th Annual Meeting, San Francisco, CA.
+> -  Sahbaz, S., **Lin, H.**, Anderson, M., Nolasco, H., Washburn, I. J., Cox, R. (May, 2019). Emotional and Behavioral Dyscontrol, Fear of Deportation, Stress, and Hope Among Latino Immigrant Youth. Paper presented in a paper symposium at the Society for Prevention Research 27th Annual Meeting, San Francisco, CA.
 
 ### Paper presentations
 >
-> -  **Lin, H.** & Larzelere, R. E. (June 2020). Centered-ANCOVA: A Solution for Lord’s Paradox with Implications for Valid Causal Inferences in Longitudinal Analyses. Paper will be presented at the 2020 Modern Modeling Methods Conference, Mansfiled, CT.
+> -  **Lin, H.** & Larzelere, R. E. (June 2020). Centered-ANCOVA: A Solution for Lord’s Paradox with Implications for Valid Causal Inferences in Longitudinal Analyses. Paper was accepted to present at the 2020 Modern Modeling Methods Conference, Mansfiled, CT. Canceled
 >
-> -  Larzelere, R. E., **Lin, H.** & Cox, R. (June 2020). Checking the Robustness of Longitudinal “Effects” Across Two Types of Change Scores. Paper will be presented at the 2020 Modern Modeling Methods Conference, Mansfiled, CT.
+> -  Larzelere, R. E., **Lin, H.** & Cox, R. (June 2020). Checking the Robustness of Longitudinal “Effects” Across Two Types of Change Scores. Paper was presented at the 2020 Modern Modeling Methods Conference, Mansfiled, CT.
 >
 > -  **Lin, H.** & Larzelere, R. E (September 2018). Centered-ANCOVA: A Solution for Lord’s Paradox with Implications for Valid Causal Inferences in Longitudinal Analyses. Paper presented at the 2018 Developmental Methods Conference, Whitefish, MT.
 >

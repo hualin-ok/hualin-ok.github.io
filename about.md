@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <head> 
-  <link rel="icon" href="/images/Me_regards1.png" type="image/png" sizes="16x16"/>
+  <link rel="icon" href="/images/logo-goldB.jpg" type="image/jpg" sizes="16x16"/>
 </head>
 
 <a href="http://drhualin.github.io"><img style="float: right; width: 90px; margin: 0px 5px 20px" src="/images/Me_regards1.png">

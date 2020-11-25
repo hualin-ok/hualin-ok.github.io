@@ -35,17 +35,15 @@ layout: default
 
 ## Recent Presentations
 
-> - Lin, H., Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper wil be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+> - **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper wil be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
 >
-> - Sahbaz S., Cox, R., Lin, H., Washburn, I. J., & Greder, K. (November, 2020). Pediatric Psychological Stress Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+> - Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (November, 2020). Pediatric Psychological Stress Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
 >
-> - Cox, R., Sahbaz S., Lin, H., Washburn, I. J., & Greder, K. (November, 2020). Fear of Deportation Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+> - Cox, R., Sahbaz S., **Lin, H.**, Washburn, I. J., & Greder, K. (November, 2020). Fear of Deportation Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
 >
-> - Washburn, I. J., Lin, H., Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations.
+> - Washburn, I. J., **Lin, H.**, Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations.
 
 [More Presentations...](/publications/#referred-conference-presentations)
 
 ***********************
 <h8><div style="text-align: right">By: Hua Lin, hua.lin@okstate.edu</div></h8>
-
-

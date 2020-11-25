@@ -47,6 +47,7 @@ permalink: /publications/
 > - **Lin, H.** (November 2018). Possible Solutions for Lord’s Paradox with Implications for Valid Causal Inferences in Longitudinal Analyses. Paper presented at the Oklahoma State University Statistics/Methods Network brown-bag lunch, Stillwater, OK.
 
 ### Conference Symposium 
+>
 #### Science Is Only as Good as Its Measures - NCFR 2020
 >
 > - **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.

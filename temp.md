@@ -1,6 +1,6 @@
 ---
 layout: default
-title: test
+title: temp
 ---
 
 ## This is a test

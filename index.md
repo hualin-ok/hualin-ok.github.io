@@ -12,9 +12,9 @@ title: Home
 
 
 ***********
-<a href="mailto:hua.lin@dokstate.edu"><img style="float: right; width: 30px; margin: 30px 20px 20px" src="/images/email_logo.jpg">
-<a href="https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en"><img style="float: right; width: 30px; margin: 0px 40px 0px" src="/images/GS_logo.jpg">
-<a href="https://www.researchgate.net/profile/Hua_Lin30"><img style="float: right; width: 30px; margin: 0px 30px 0px" src="/images/RG_logo.png">
+<a href="mailto:hua.lin@dokstate.edu"><img style="float: right; width: 30px; margin-right: 10px;" src="/images/email_logo.jpg">
+<a href="https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en"><img style="float: right; width: 30px; margin-right: 30px;" src="/images/GS_logo.jpg">
+<a href="https://www.researchgate.net/profile/Hua_Lin30"><img style="float: right; width: 30px; margin-right: 30px;" src="/images/RG_logo.png">
 <h4>{{ page.title }}</h4>
 
 > Welcome to Hua Lin's webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a post-doctoral fellow at Oklahoma State University. 

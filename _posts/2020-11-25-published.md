@@ -5,12 +5,12 @@ layout: default
 <head>
     <style>
     .link { color: 808000; } /* CSS link color */
-     .link:hover { color: #00FF00; } /* CSS link hover (green) */
+     .link:hover { color: #000000; } /* CSS link hover (green) */
   </style>
 
 <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a class="link" href="{{ site.baseurl }}/">Blog</a>
+            <a class="link" href="{{ site.baseurl }}/about">About</a>
  </nav>
 </head>
 

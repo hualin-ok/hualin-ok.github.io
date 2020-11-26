@@ -14,7 +14,7 @@ title: Home
 ***********
 <h4>{{ page.title }}</h4>
 
-> Welcome to my webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a post-doctoral fellow at Oklahoma State University. 
+> Welcome to Hua Lin's webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a post-doctoral fellow at Oklahoma State University. 
 
 ## Research Interests
 > One of my research interests is the development of parent-child interactions, in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”

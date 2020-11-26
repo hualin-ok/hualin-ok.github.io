@@ -2,14 +2,18 @@
 title: Publications
 layout: default
 ---
-
-<title>{{ page.title }} | {{ site.title }}</title>
 <head>
-         <nav>
+  <style>
+    a { color: #FF0000; } /* CSS link color */
+  </style>
+<nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
 </head>
+
+
+<title>{{ page.title }} | {{ site.title }}</title>
 <H1> {{ page.title }} </H1>
 
 > 6. **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [doi:10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001).

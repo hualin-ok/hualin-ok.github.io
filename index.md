@@ -12,7 +12,7 @@ title: Home
 
 
 ***********
-<h4><a  href="{{ site.baseurl }}/{{ page.url }}"; color: #000000;>{{ page.title }}</a></h4>
+<h4><a  href="{{ site.baseurl }}/"; color: #000000;>{{ page.title }}</a></h4>
 
 <a class="link" href="{{ site.baseurl }}/about">About</a>
 

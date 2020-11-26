@@ -14,7 +14,7 @@ layout: default
 
 <body>
     <style>
-    a { color: #000000; } /* CSS link color */
+    a { color: blue; } /* CSS link color */
   </style>
 </body>
 

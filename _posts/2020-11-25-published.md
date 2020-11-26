@@ -12,6 +12,11 @@ layout: default
           </nav>
 </head>
 
+<body>
+    <style>
+    a { color: #000000; } /* CSS link color */
+  </style>
+</body>
 
 <title>{{ page.title }} | {{ site.title }}</title>
 <H1> {{ page.title }} </H1>

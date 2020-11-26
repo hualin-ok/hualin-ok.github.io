@@ -3,6 +3,11 @@ title: Publications
 layout: default
 ---
 <head>
+    <style>
+    .link { color: 808000; } /* CSS link color */
+     .link:hover { color: #00FF00; } /* CSS link hover (green) */
+  </style>
+
 <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
@@ -10,9 +15,6 @@ layout: default
 </head>
 
 <body>
-    <style>
-    a { color: 808000; } /* CSS link color */
-  </style>
 </body>
 
 <title>{{ page.title }} | {{ site.title }}</title>

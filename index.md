@@ -12,9 +12,9 @@ title: Home
 
 
 ***********
-<h4><a  href="{{ site.baseurl }}"; color: #000000>{{ page.title }}</a></h4>
+<h4><a href="{{ site.baseurl}}"; color: #000000>{{ page.title }}</a></h4>
 
-<a class="link" href="{{ site.baseurl }}/about">About</a>
+<h1><a class="link" href="{{ site.baseurl }}/about">{{ page.title }}</a></h>
 
 > Welcome to my webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a post-doctoral fellow at Oklahoma State University. 
 

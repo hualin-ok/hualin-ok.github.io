@@ -5,8 +5,8 @@ layout: default
 <head>
 <nav>
     <style>
-     .link { color: #808000; } /* CSS link color (red) */
-     .link:hover { color: #000000; } /* CSS link hover (green) */
+     .link { color: #808000; font-weight:bold;} /* CSS link color (red) */
+     .link:hover { color: #000000; font-weight:bold;} /* CSS link hover (green) */
     </style>
     <h5>
         <a class="link" href="{{ site.baseurl }}/">Blog</a>

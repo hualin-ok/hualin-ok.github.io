@@ -3,14 +3,13 @@ title: Publications
 layout: default
 ---
 <head>
-    <style>
-    .link { color: 808000; } /* CSS link color */
-     .link:hover { color: #000000; } /* CSS link hover (green) */
-  </style>
-
 <nav>
-            <a class="link" href="{{ site.baseurl }}/">Blog</a>
-            <a class="link" href="{{ site.baseurl }}/about">About</a>
+    <style>
+     .link { color: #FF0000; } /* CSS link color (red) */
+     .link:hover { color: #00FF00; } /* CSS link hover (green) */
+    </style>
+    <a class="link" href="{{ site.baseurl }}/">Blog</a>
+     <a class="link" href="{{ site.baseurl }}/about">About</a>
  </nav>
 </head>
 

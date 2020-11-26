@@ -11,6 +11,7 @@ layout: default
 
 
 ***********
+<h4><a color: black; href="{{ site.baseurl }}{{ post.url }}">{{ page.title }}</a></h4>
 
 ## Research Interests
 > One of my research interests is the development of parent-child interactions, in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”

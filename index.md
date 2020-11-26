@@ -12,7 +12,7 @@ title: Home
 
 
 ***********
-<h4>{{ page.title }}</a></h4>
+<h4>{{ page.title }}</h4>
 
 > Welcome to my webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a post-doctoral fellow at Oklahoma State University. 
 

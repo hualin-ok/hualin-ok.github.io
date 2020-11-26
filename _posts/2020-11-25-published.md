@@ -3,13 +3,13 @@ title: Publications
 layout: default
 ---
 <head>
+<nav>
   <style>
     a { color: #000000; } /* CSS link color */
   </style>
-<nav>
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
+ </nav>
 </head>
 
 <body>

@@ -9,7 +9,7 @@ layout: default
      .link:hover { color: #000000; font-weight:bold;font-size: 30px;} /* CSS link hover (green) */
     </style>
         <a class="link" href="{{ site.baseurl }}/">Blog</a>
-     <a class="link" href="{{ site.baseurl }}/about">About</a>
+        <a class="link" href="{{ site.baseurl }}/about">About</a>
  </nav>
 </head>
 

@@ -4,7 +4,7 @@ layout: default
 ---
 <head>
   <style>
-    a { color: #FF0000; } /* CSS link color */
+    a { color: #FFFFFF; } /* CSS link color */
   </style>
 <nav>
             <a href="{{ site.baseurl }}/">Blog</a>

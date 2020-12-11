@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+<html>
+  <head>
+   <meta name=”google-site-verification”    content=”googlec79168fb806d7686” />
+  </head>
+</html>
+
 <img style="float: center; width: 1000px; margin: 0px 5px 5px" src="images/Family3-1.jpg">
 
 <a href="http://drhualin.github.io"><img style="float: right; width: 90px; margin: 0px 5px 0px" src="/images/Me_regards1.png">

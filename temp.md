@@ -5,6 +5,7 @@ title: temp
 
 ***********
 
+<h1>{{site.title}}</h1>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">

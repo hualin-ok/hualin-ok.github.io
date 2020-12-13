@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-<html>
-  <head>
-   <meta name=”google-site-verification”    content=”googlec79168fb806d7686” />
-  </head>
-</html>
 
 <img style="float: center; width: 1000px; margin: 0px 5px 5px" src="images/Family3-1.jpg">
 

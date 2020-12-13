@@ -3,15 +3,6 @@ layout: default
 title: About
 permalink: /about/
 ---
-<head> 
-  <link rel="icon" href="/images/logo-goldB.jpg" type="image/jpg" sizes="16x16"/>
-</head>
-
-<a href="http://drhualin.github.io"><img style="float: right; width: 90px; margin: 0px 5px 20px" src="/images/Me_regards1.png">
-<h1> <img style="float: center; width: 40px; margin: 0px 0px 0px" src="/images/logo-goldB.jpg">  Hua Lin, Ph.D </h1>
-
-  
-[**Home**](/)  \ [**About**](/about) \ [**Research**](/research) \ [**Publications**](/publications.md)\ [**Workshops**](/workshops) 
 
 ***********
 

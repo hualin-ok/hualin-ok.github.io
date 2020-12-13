@@ -42,4 +42,3 @@ permalink: /workshops/
 
 
 ***********************
-<h8><div style="text-align: right">By: Hua Lin, hua.lin@okstate.edu</div></h8>

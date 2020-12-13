@@ -22,4 +22,3 @@ Working on several NIH funding projects  <br />
 [ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)  <br />
 
 ***********************
-<h8><div style="text-align: right">By: Hua Lin, hua.lin@okstate.edu</div></h8>

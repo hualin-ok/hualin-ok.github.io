@@ -1,14 +1,8 @@
 ---
-layout: default
+layout: page
 title: Publications
 permalink: /publications/
 ---
-
-<a href="http://hualin-ok.github.io"><img style="float: right; width: 90px; margin: 0px 5px 20px" src="/images/Me_regards1.png"></a>
-
-<h1> <a href="http://hualin-ok.github.io"><img style="float: center; width: 40px; margin: 0px 0px 0px" src="/images/logo-goldB.jpg"></a>  Hua Lin, Ph.D </h1>
- 
-[**Home**](/)  \ [**About**](/about.md) \ [**Research**](/research) \ [**Publications**](/publications.md)\  [**Workshops**](/workshops) 
 
 ***********
 

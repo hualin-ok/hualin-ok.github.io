@@ -108,7 +108,7 @@ permalink: /publications/
 >
 > -  **Lin, H.**, & Larzelere, R. E. (August, 2020). A Reanalysis of the Effect of Child Care Subsidies on Maternal Characteristics in Fragile Families. Poster was presented at the 2020 annual American Psychological Association Convention, Washington, DC.
 >
-> -  Washburn, I. J., **Lin, H.**, Sahbaz, S., & Cox, R. (July, 2020). IRT Analysis of the Lerner Caring Scale with a Sample of Latino Immigrant Youth. Poster was presented at the Society for Prevention Research 27th Annual Meeting, Virtual Meeting.
+> -  Washburn, I. J., **Lin, H.**, Sahbaz, S., & Cox, R. (July, 2020). IRT Analysis of the Lerner Caring Scale with a Sample of Latino Immigrant Youth. Poster was presented at the Society for Prevention Research 27th Annual Meeting, Virtual Meeting. [Abstract](https://spr.confex.com/spr/spr2020/meetingapp.cgi/Paper/29325)
 >
 > -  Larzelere, R. E., Beasley, L. & **Lin, H.** (June, 2020). Can Age-Appropriate Reasoning Potentially Improve Behavioral Parent Training for Oppositional Preschoolers? Poster was presented at the Journal of Clinical Child and Adolescent Psychology 4th Future Directions Forum, Virtual conference. 
 >
@@ -118,7 +118,7 @@ permalink: /publications/
 >
 > -  **Lin, H.**, & Larzelere, R. E. (November, 2017). The Effect of Open-Handed Spanking and More Severe Physical Punishment on Child Aggression: A Propensity-Score Adjustment Approach. Poster presented at the conference of the National Council on Family Relations, Orlando, FL.
 >
-> -  **Lin, H.**, & Larzelere, R. E. (August, 2016). Maternal Negative Affect: Moderator and Mediator of Using Power Assertion for Toddler Noncompliance. Poster presented at the 2016 annual American Psychological Association Convention, Denver, CO. [Poster Snapshot](/_posts/NegAff_2016APA.md)
+> -  **Lin, H.**, & Larzelere, R. E. (August, 2016). Maternal Negative Affect: Moderator and Mediator of Using Power Assertion for Toddler Noncompliance. Poster presented at the 2016 annual American Psychological Association Convention, Denver, CO. [Poster Snapshot](_posts/NegAff_2016APA.md)
 >
 > -  Harrist, A. W., Rutledge, J., Liu, C., & **Lin, H.** (March, 2015). Inter-Parent Aggression Predicts Children’s Relationally but not Physically Aggressive Social Problem Solving. Poster presented at the 2015 biennial meeting of the Society for Research in Child Development, Philadelphia, PA. 
 >

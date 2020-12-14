@@ -16,8 +16,8 @@ permalink: /about/
 > Post-doctoral fellow 
 >
 > Working on several NIH funding projects  
-*Department of Human Development and Family Science* <br />
-@Oklahoma State University <br />
+> *Department of Human Development and Family Science* <br />
+> @Oklahoma State University <br />
 
 ## Contact Me
 [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br />

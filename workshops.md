@@ -8,7 +8,7 @@ permalink: /workshops/
 
 ## Data/Software Workshops @ OSU
 
-> I am serving as an instructor at OSU Carpentry Organization. Our workshops teach researchers and students how to use open-source software tools and computing resources such as R, Python, OpenRefine, and Git, using Software Carpentry and Data Carpentry organizations’ learning materials. 
+> I am interested in applying statistical software such as Stata, Mplus, R, SAS, and Python in research and teaching. I am a certificated instructor by [Data Carpentry](https://datacarpentry.org/) and am teaching workshops for graduate studens and faculty to use open-source software tools and computing resources such as R, Python, OpenRefine, and Git at [OSU Carpentry Organization](https://osu-carpentry.github.io/). 
 
 ### R Online Workshops
 > Data manipulation, analysis, and visualization in R

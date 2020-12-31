@@ -7,14 +7,15 @@ permalink: /research/
 ***********
 
 <h2> Grant and Research Activities</h2>
-
+>
 ### Grants Submitted and Under Review
+>
 > - *2020*   National Institute of Drug Abuse (2021-2023). Parent-Child Language Discrepancies and ATOD use among Latino Immigrants (under review). **Co-Principal Investigator**.
 >
 > - *2020*   National Institute of General Medical Sciences (2021-2025). Relationship of Resiliency factors in American Indian Parents and Youth to Adverse Childhood Events and Suicide Ideation (under review). **Co-Principal Investigator**.
-
+>
 ### Data Analysis for the Funded Projects
-
+>
 > - *2019*  National Institutes of Health, National Institute on Drug Abuse (2019-2022). Reducing Alcohol, Tobacco, and Drug Use Among Latino Immigrant Youth: A Preliminary Test of the ¡Unidos Se Puede! Program (R15DA049232). $444,774. R. Cox, PI.
 >
 > -	*2018*  National Institute of Food and Agriculture (2018-2023). CYFAR Oklahoma State and Langston University Multi-State Sustainable Community Project: United We Can Entrepreneurship Program for African American Youth (2018-41520-28907). $1,280,000. R. Cox, Co-Project director.
@@ -26,8 +27,9 @@ permalink: /research/
 > - *2014*   National Institute of Food and Agriculture (2014-2019).  CYFAR Iowa State Sustainable Community Project: Together for a Better Education. Subcontract $64,800.  R. Cox, Lead Evaluator.
 
 ## Research Interests
+>
 ### The Development of Parent-child Interactions
-
+>
 > - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](https://doi.org/10.1016/j.adolescence.2020.04.007).
 >
 > - **Lin, H.,** Richie, K. L., & Larzelere, R. E. (2020). Applying a momentary parenting goal-regulation model to discipline episodes with toddlers. *Journal of Child and Family Studies*, 29, 1055–1069. [doi:10.1007/s10826-020-01698-1](http://doi.org/10.1007/s10826-020-01698-1).
@@ -63,9 +65,9 @@ permalink: /research/
 > -  **Lin, H.** & Larzelere, R. E. (August, 2020). A Reanalysis of the Effect of Child Care Subsidies on Maternal Characteristics in Fragile Families. Poster was presented at the 2020 annual American Psychological Association Convention, Washington, DC.
 >
 > -  **Lin, H.** & Larzelere, R. E (March 2019). Two Methods for Getting Consistent Results from Simple Change Scores and Residualized Change Scores. Poster was presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD.
-
+>
 ### Measurements in different cultures
-
+>
 > - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (invited resubmission). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >
 > - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (under review). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*.
@@ -73,13 +75,13 @@ permalink: /research/
 > - Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (under review). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
 >
 > - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (under review), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*.  
-
+>
 ### Machine Learning
-
+>
 > - **Lin, H.** & Larzelere, R. E.(April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development. 
 >
 ### Data Visualization
-
+>
 > - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [doi:10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).
 >
 

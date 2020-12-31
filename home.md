@@ -30,15 +30,23 @@ title: Home
 >
 > [More Publicaitons...](/publications)
 
-## Recent Presentations
+## Coming Presentations
 
-> - **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper wil be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+### Conference Symposium 
 >
-> - Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (November, 2020). Pediatric Psychological Stress Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+#### Regression Toward the Mean, Lord’s Paradox, and Modeling or Forecasting Change in Longitudinal Analyses – SRCD (April 2021)
 >
-> - Cox, R., Sahbaz S., **Lin, H.**, Washburn, I. J., & Greder, K. (November, 2020). Fear of Deportation Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+> - **Chair**: Robert Larzelere, Oklahoma State University
+> - **Paper 1**: Causal Graphical Analysis of Regression to the Mean - Yongnam Kim, Seoul National University; 
+> - **Paper 2**: Dual-Centered ANCOVA Overcomes Bias in ANCOVA with More Statistical Power than Difference-Score Analyses - **Hua Lin** & Robert Larzelere, Oklahoma State University; 
+> - **Paper 3**: Estimating School Effectiveness: An Application of Lord’s Paradox - Daniel Wright, University of Nevada at Las Vegas; 
+> - **Paper 4**: Design and Analytic Features for Reducing Biases in Skill-Building Intervention Impact Forecasts - Daniela Alvarez-Vargas, Sirui Wan, & Drew Bailey, University of California - Irvine. 
 >
-> - Washburn, I. J., **Lin, H.**, Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper will be presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations.
+### Poster presentations
+>
+> - **Lin, H.** & Larzelere, R. E. (April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
+>
+> - Cox, R., **Lin, H.** & Larzelere, R. E., Sahbaz S., Washburn, I. J., Greder, K., Leon, M., Lopez, A. (April 2021). Latino Immigrant Family Language Discrepancies and Problematic Youth Outcomes: Parent-Youth Conflict as a Mediator. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
 
 [More Presentations...](/publications/#referred-conference-presentations)
 

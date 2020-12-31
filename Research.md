@@ -38,10 +38,9 @@ permalink: /research/
 >
 > -  Harrist, A. W., Rutledge, J., Liu, C., & **Lin, H.** (March, 2015). Inter-Parent Aggression Predicts Children’s Relationally but not Physically Aggressive Social Problem Solving. Poster presented at the 2015 biennial meeting of the Society for Research in Child Development, Philadelphia, PA. 
 >
-
 ### Resilience in Immigrant Families
-
-> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (under review). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
+>
+> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (invited resubmission). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
 >
 > - Cox, R., **Lin, H.** & Larzelere, R. E., Sahbaz S., Washburn, I. J., Greder, K., Leon, M., Lopez, A. (April 2021). Latino Immigrant Family Language Discrepancies and Problematic Youth Outcomes: Parent-Youth Conflict as a Mediator. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
 >
@@ -51,9 +50,8 @@ permalink: /research/
 >
 > -  **Lin, H.**, & Henry C. S. (March, 2015). A Conceptual Framework of Family Resilience: Resilience in International Graduate Student Families. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 >
-
 ### Making Causal Inference in Longitudinal Analyses
-
+>
 > - **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [doi:10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001).
 >
 > - Larzelere, R. E., **Lin, H.**, Payton, M. E., & Washburn, I. J. (2018). Longitudinal biases against corrective actions. *Archives of Scientific Psychology*, 6, 243-250. [doi:10.1037/arc0000052](http://doi.org/10.1037/arc0000052).

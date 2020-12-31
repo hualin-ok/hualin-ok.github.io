@@ -43,6 +43,8 @@ permalink: /research/
 
 > - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (under review). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
 >
+> - Cox, R., **Lin, H.** & Larzelere, R. E., Sahbaz S., Washburn, I. J., Greder, K., Leon, M., Lopez, A. (April 2021). Latino Immigrant Family Language Discrepancies and Problematic Youth Outcomes: Parent-Youth Conflict as a Mediator. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
+>
 > -  **Lin, H.**, Sahbaz, S., Anderson, M., Nolasco, H., Washburn, I. J., Cox, R. (May, 2019). Emerging, Hot Topic: Substance Use, Fear of Deportation, Stress, and Hope Among Latino Immigrant Youth. Paper presented in a paper symposium at the Society for Prevention Research 27th Annual Meeting, San Francisco, CA.
 >
 > -  **Lin, H.**, Sahbaz, S., Nolasco, H., Anderson, M., & Cox, R. (November, 2019). Cognitive Functioning, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas.
@@ -58,9 +60,9 @@ permalink: /research/
 >
 > - Larzelere, R.E., Gunnoe, M. L., Roberts, M. W., **Lin, H.**, Ferguson, C. J. (2020). Causal evidence for exclusively positive parenting and timeout. *Marriage & Family Review*, 56, 287-319. [doi:10.1080/01494929.2020.1712304](http://doi.org/10.1080/01494929.2020.1712304).
 >
-> - **Lin, H.**, & Larzelere, R. E. (invited resubmission). Toward understanding contradictory methods for reducing selection bias in longitudinal analyses: A simulation of treatment for physical health. *Practical Assessment, Research, and Evaluation*.
+> - **Lin, H.** & Larzelere, R. E. (invited resubmission). Toward understanding contradictory methods for reducing selection bias in longitudinal analyses: A simulation of treatment for physical health. *Practical Assessment, Research, and Evaluation*.
 >
-> -  **Lin, H.**, & Larzelere, R. E. (August, 2020). A Reanalysis of the Effect of Child Care Subsidies on Maternal Characteristics in Fragile Families. Poster was presented at the 2020 annual American Psychological Association Convention, Washington, DC.
+> -  **Lin, H.** & Larzelere, R. E. (August, 2020). A Reanalysis of the Effect of Child Care Subsidies on Maternal Characteristics in Fragile Families. Poster was presented at the 2020 annual American Psychological Association Convention, Washington, DC.
 >
 > -  **Lin, H.** & Larzelere, R. E (March 2019). Two Methods for Getting Consistent Results from Simple Change Scores and Residualized Change Scores. Poster was presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD.
 
@@ -74,6 +76,10 @@ permalink: /research/
 >
 > - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (under review), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*.  
 
+### Machine Learning
+
+> - **Lin, H.** & Larzelere, R. E.(April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development. 
+>
 ### Data Visualization
 
 > - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [doi:10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).

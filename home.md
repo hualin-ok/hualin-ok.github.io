@@ -31,7 +31,7 @@ title: Home
 > [More Publicaitons...](/publications)
 
 ## Coming Presentations
-
+>
 ### Conference Symposium 
 >
 #### Regression Toward the Mean, Lord’s Paradox, and Modeling or Forecasting Change in Longitudinal Analyses – SRCD (April 2021)

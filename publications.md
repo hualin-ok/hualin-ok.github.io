@@ -42,6 +42,10 @@ permalink: /publications/
 
 ### Conference Symposium 
 >
+#### Regression Toward the Mean, Lord’s Paradox, and Modeling or Forecasting Change in Longitudinal Analyses – SRCD 2021
+>
+> - **Lin, H.** & Larzelere, R. E (April 2021). Dual-Centered ANCOVA Overcomes Bias in ANCOVA with More Statistical Power than Difference-Score Analyses. Paper will be presented in a paper symposium at the 2021 virtual biennial meeting of the Society for Research in Child Development.
+
 #### Science Is Only as Good as Its Measures - NCFR 2020
 >
 > - **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
@@ -92,6 +96,10 @@ permalink: /publications/
 
 ### Poster presentations
 >
+> - **Lin, H.** & Larzelere, R. E. (April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
+>
+> - Cox, R., **Lin, H.** & Larzelere, R. E., Sahbaz S., Washburn, I. J., Greder, K., Leon, M., Lopez, A. (April 2021). Latino Immigrant Family Language Discrepancies and Problematic Youth Outcomes: Parent-Youth Conflict as a Mediator. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
+
 > -  **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (October, 2020). The path from fear of deportation to immigrant Latino Youth ATOD use, Anxiety, and Cognitive Dysfunction. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference. [Abstract](https://www.the-nhsn.org/Conference/docs/Lin,%20Hua.pdf)
 >
 > -  Cox, R., Washburn, I. J., Lin, H., Sahbaz S., & Greder, K. (October, 2020). Measuring Immigrant Latino Youth Fear of Deportation and Hope. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference. [Abstract](https://www.the-nhsn.org/Conference/docs/Cox,%20Ronald.pdf)

@@ -80,10 +80,6 @@ permalink: /research/
 >
 > - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (under review). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*.
 >
-> - Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (under review). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
->
-> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (under review), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*.  
->
 ### Machine Learning
 >
 > - **Lin, H.** & Larzelere, R. E.(April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development. 

@@ -53,24 +53,24 @@ permalink: /publications/
 >
 #### Science Is Only as Good as Its Measures - NCFR 2020
 >
-> - **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+> - **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (November, 2020). Snyder’s Children’s Hope Scale: Evidence for use in a Latino Sample. Paper presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
 >
-> -  Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (November, 2020). Pediatric Psychological Stress Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
+> -  Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (November, 2020). Pediatric Psychological Stress Scale: Evidence for use in a Latino Sample. Paper presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference.
 >
-> -  Cox, R., Sahbaz S., **Lin, H.**, Washburn, I. J., & Greder, K. (November, 2020). Fear of Deportation Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference. 
+> -  Cox, R., Sahbaz S., **Lin, H.**, Washburn, I. J., & Greder, K. (November, 2020). Fear of Deportation Scale: Evidence for use in a Latino Sample. Paper presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations, Virtual conference. 
 >
-> -  Washburn, I. J., **Lin, H.**, Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper was presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations. 
+> -  Washburn, I. J., **Lin, H.**, Sahbaz S., Greder, K., & Cox, R. (November, 2020). Positive Youth Development Caring Scale: Evidence for use in a Latino Sample. Paper presented in a paper symposium at the 2020 annual conference of the National Council on Family Relations. 
 >
 #### Fear of Deportation, Stress, and Latino Immigrant Youth Mental, Emotional, and Behavioral Health: Can Hope Make a Difference? - NCFR 2019 
-> -  **Lin, H.**, Sahbaz, S., Nolasco, H., Anderson, M., & Cox, R. (November, 2019). Cognitive Functioning, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas.
+> -  **Lin, H.**, Sahbaz, S., Nolasco, H., Anderson, M., & Cox, R. (November, 2019). Cognitive Functioning, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas.
 >
-> -  Anderson, M., Sahbaz, S., **Lin, H.**, Nolasco, H., & Cox, R. (November, 2019). Depression, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas. 
+> -  Anderson, M., Sahbaz, S., **Lin, H.**, Nolasco, H., & Cox, R. (November, 2019). Depression, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas. 
 >
-> -  Nolasco, H., **Lin, H.**, Sahbaz, S., Anderson, M., & Cox, R. (November, 2019). Academic Achievement, Fear of Deportation, Stress, and Hope among Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas. 
+> -  Nolasco, H., **Lin, H.**, Sahbaz, S., Anderson, M., & Cox, R. (November, 2019). Academic Achievement, Fear of Deportation, Stress, and Hope among Latino Immigrant Youth. Paper presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas. 
 >
-> -  Cox, R., Anderson, M., **Lin, H.**, Sahbaz, S., & Nolasco, H. (November, 2019). Substance Use Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas.
+> -  Cox, R., Anderson, M., **Lin, H.**, Sahbaz, S., & Nolasco, H. (November, 2019). Substance Use Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas.
 >
-> -  Sahbaz, S., **Lin, H.**, Anderson, M., Nolasco, H., & Cox, R. (November, 2019). Aggression, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper was presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas. 
+> -  Sahbaz, S., **Lin, H.**, Anderson, M., Nolasco, H., & Cox, R. (November, 2019). Aggression, Fear of Deportation, Stress, and Hope in Latino Immigrant Youth. Paper presented in a paper symposium at the 2019 annual conference of the National Council on Family Relations, Fort Worth, Texas. 
 >
 #### Emerging, Hot Topic: Fear of Deportation, Stress, and Latino Immigrant Youth Mental, Emotional, and Behavioral Health: Can Hope Make a Difference? - SPR 2019 
 > -  **Lin, H.**, Sahbaz, S., Anderson, M., Nolasco, H., Washburn, I. J., Cox, R. (May, 2019). Substance Use, Fear of Deportation, Stress, and Hope Among Latino Immigrant Youth. Paper presented in a paper symposium at the Society for Prevention Research 27th Annual Meeting, San Francisco, CA.
@@ -81,9 +81,9 @@ permalink: /publications/
 
 ### Paper presentations
 >
-> -  **Lin, H.** & Larzelere, R. E. (June 2020). Centered-ANCOVA: A Solution for Lord’s Paradox with Implications for Valid Causal Inferences in Longitudinal Analyses. Paper was accepted to present at the 2020 Modern Modeling Methods Conference, Mansfiled, CT. Canceled
+> -  **Lin, H.** & Larzelere, R. E. (June 2020). Centered-ANCOVA: A Solution for Lord’s Paradox with Implications for Valid Causal Inferences in Longitudinal Analyses. Paper accepted to present at the 2020 Modern Modeling Methods Conference, Mansfiled, CT. Canceled
 >
-> -  Larzelere, R. E., **Lin, H.** & Cox, R. (June 2020). Checking the Robustness of Longitudinal “Effects” Across Two Types of Change Scores. Paper was presented at the 2020 Modern Modeling Methods Conference, Mansfiled, CT.
+> -  Larzelere, R. E., **Lin, H.** & Cox, R. (June 2020). Checking the Robustness of Longitudinal “Effects” Across Two Types of Change Scores. Paper presented at the 2020 Modern Modeling Methods Conference, Mansfiled, CT.
 >
 > -  **Lin, H.** & Larzelere, R. E (September 2018). Centered-ANCOVA: A Solution for Lord’s Paradox with Implications for Valid Causal Inferences in Longitudinal Analyses. Paper presented at the 2018 Developmental Methods Conference, Whitefish, MT.
 >
@@ -107,21 +107,21 @@ permalink: /publications/
 
 > -  **Lin, H.**, Washburn, I. J., Cox, R., Sahbaz S., & Greder, K. (October, 2020). The path from fear of deportation to immigrant Latino Youth ATOD use, Anxiety, and Cognitive Dysfunction. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference. [Abstract](https://www.the-nhsn.org/Conference/docs/Lin,%20Hua.pdf)
 >
-> -  Cox, R., Washburn, I. J., Lin, H., Sahbaz S., & Greder, K. (October, 2020). Measuring Immigrant Latino Youth Fear of Deportation and Hope. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference. [Abstract](https://www.the-nhsn.org/Conference/docs/Cox,%20Ronald.pdf)
+> -  Cox, R., Washburn, I. J., Lin, H., Sahbaz S., & Greder, K. (October, 2020). Measuring Immigrant Latino Youth Fear of Deportation and Hope. Poster presented at the 2020 National Hispanic Science Network Conference, Virtual conference. [Abstract](https://www.the-nhsn.org/Conference/docs/Cox,%20Ronald.pdf)
 >
-> -  Sahbaz S., Cox, R., Lin, H., Washburn, I. J., & Greder, K. (October, 2020). Pediatric Psychological Stress Measure: Evidence for Use in a Latino Sample. Poster was presented at the 2020 National Hispanic Science Network Conference, Virtual conference. [Abstract](https://www.the-nhsn.org/Conference/docs/Sahbaz,%20Sumeyra.pdf)
+> -  Sahbaz S., Cox, R., Lin, H., Washburn, I. J., & Greder, K. (October, 2020). Pediatric Psychological Stress Measure: Evidence for Use in a Latino Sample. Poster presented at the 2020 National Hispanic Science Network Conference, Virtual conference. [Abstract](https://www.the-nhsn.org/Conference/docs/Sahbaz,%20Sumeyra.pdf)
 >
-> -  **Lin, H.** (September, 2020). Dual-centered ANCOVA: Modifying ANCOVA to Model within-Person Change. Poster was presented at the 2020 Women in Statistics and Data Science Virtual Conference. [Abstract](https://ww2.amstat.org/meetings/wsds/2020/onlineprogram/AbstractDetails.cfm?AbstractID=309601)
+> -  **Lin, H.** (September, 2020). Dual-centered ANCOVA: Modifying ANCOVA to Model within-Person Change. Poster presented at the 2020 Women in Statistics and Data Science Virtual Conference. [Abstract](https://ww2.amstat.org/meetings/wsds/2020/onlineprogram/AbstractDetails.cfm?AbstractID=309601)
 >
-> -  **Lin, H.**, & Larzelere, R. E. (August, 2020). A Reanalysis of the Effect of Child Care Subsidies on Maternal Characteristics in Fragile Families. Poster was presented at the 2020 annual American Psychological Association Convention, Washington, DC.
+> -  **Lin, H.**, & Larzelere, R. E. (August, 2020). A Reanalysis of the Effect of Child Care Subsidies on Maternal Characteristics in Fragile Families. Poster presented at the 2020 annual American Psychological Association Convention, Washington, DC.
 >
-> -  Washburn, I. J., **Lin, H.**, Sahbaz, S., & Cox, R. (July, 2020). IRT Analysis of the Lerner Caring Scale with a Sample of Latino Immigrant Youth. Poster was presented at the Society for Prevention Research 27th Annual Meeting, Virtual Meeting. [Abstract](https://spr.confex.com/spr/spr2020/meetingapp.cgi/Paper/29325)
+> -  Washburn, I. J., **Lin, H.**, Sahbaz, S., & Cox, R. (July, 2020). IRT Analysis of the Lerner Caring Scale with a Sample of Latino Immigrant Youth. Poster presented at the Society for Prevention Research 27th Annual Meeting, Virtual Meeting. [Abstract](https://spr.confex.com/spr/spr2020/meetingapp.cgi/Paper/29325)
 >
-> -  Larzelere, R. E., Beasley, L. & **Lin, H.** (June, 2020). Can Age-Appropriate Reasoning Potentially Improve Behavioral Parent Training for Oppositional Preschoolers? Poster was presented at the Journal of Clinical Child and Adolescent Psychology 4th Future Directions Forum, Virtual conference. 
+> -  Larzelere, R. E., Beasley, L. & **Lin, H.** (June, 2020). Can Age-Appropriate Reasoning Potentially Improve Behavioral Parent Training for Oppositional Preschoolers? Poster presented at the Journal of Clinical Child and Adolescent Psychology 4th Future Directions Forum, Virtual conference. 
 >
 > -  **Lin, H.** Harrist A. W., Lansford, J. E., Pettit, G. S., Bates, J. & Dodge, K. A. (March 2019). Parental Control and Social withdrawal Across Seven Adolescent Years: A developmental Cascade Model. Poster presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD. [Poster Snapshot](/poster/Lin_Harrist_SRCD2019.md)
 >
-> -  **Lin, H.** & Larzelere, R. E (March 2019). Two Methods for Getting Consistent Results from Simple Change Scores and Residualized Change Scores. Poster was presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD. [Poster Snapshot](/poster/Lin_Larz_SRCD2019.md)
+> -  **Lin, H.** & Larzelere, R. E (March 2019). Two Methods for Getting Consistent Results from Simple Change Scores and Residualized Change Scores. Poster presented at the 2019 biennial meeting of the Society for Research in Child Development, Baltimore, MD. [Poster Snapshot](/poster/Lin_Larz_SRCD2019.md)
 >
 > -  **Lin, H.**, & Larzelere, R. E. (November, 2017). The Effect of Open-Handed Spanking and More Severe Physical Punishment on Child Aggression: A Propensity-Score Adjustment Approach. Poster presented at the conference of the National Council on Family Relations, Orlando, FL.
 >

@@ -12,6 +12,9 @@ permalink: /workshops/
 
 ### R Online Workshops
 > Data manipulation, analysis, and visualization in R
+> 
+> - [March 2021, R for social science](https://osu-carpentry.github.io/2021-03-25-okstate/)
+> 
 > - [Nobember 2020, R for Geospatial Data](https://osu-carpentry.github.io/2020-11-06-okstate/)
 >
 > - [October 2020, R for social science](https://osu-carpentry.github.io/2020-10-26-okstate)

@@ -7,7 +7,9 @@ permalink: /publications/
 ***********
 
 ## Publications
-
+>
+> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (conditionally accepted). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
+>
 > - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (conditionally accepted). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
 > 
 > - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. *Children*, 8, 256. [doi:10.3390/children8040256](https://www.mdpi.com/2227-9067/8/4/256)
@@ -31,11 +33,11 @@ permalink: /publications/
 >
 > - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (invited resubmission). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >
-> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (invited resubmission), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*.  
->
-> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (invited resubmission). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
+> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (invited resubmission), Adding an Item Response Insight to understand Pro-tourism Behavior Scale. *Journal of Business Research*.  
 >
 > - Larzelere, R. E., Knowles, S. J., Curtis, J., Oliver, M. G., Bigler, J. F., **Lin H.**, & Larzelere W. A. (under review). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. *Journal of Child and Family Studies*.
+>
+> - Cox, R. B. Jr., Lin, H., Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (under review). Validation fo the Family Fear of Deportation Scale for Youth. Family Relations.
 >
 > - Liu, J., **Lin, H.**, Hu, B., & Yang., C. (under review), Overlooking the response options? An Item Response validation of the Workplace Incivility Scale. *International Journal of Hospitality Management*.
 > 

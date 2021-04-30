@@ -13,7 +13,7 @@ title: Welcome
 
 <a href="/home/"><img style="float: right; width: 550px; margin: 0px 5px 5px" src="images/Family3-1.jpg"></a>
 
-> One of my research interests is the development of **parent-child interactions**, in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
+> One of my research interests is the development of [**parent-child interactions**](/research/###The Development of Parent-child Interactions), in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
 >
 > My research interest in **immigrant family well-being** focuses on how immigrant-related stress impacts adolescent health and behavior and how a psycho-educational intervention can buffer against stress and/or ameliorate the effects of stress in immigrant families from a resilience perspective.
 >

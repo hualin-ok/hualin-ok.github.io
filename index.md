@@ -11,7 +11,7 @@ title: Welcome
 
 ## Research Interests
 
-<a href="/home/"><img style="float: right; width: 600px; margin: 0px 5px 5px" src="images/Family3-1.jpg"></a>
+<a href="/home/"><img style="float: right; width: 550px; margin: 0px 5px 5px" src="images/Family3-1.jpg"></a>
 
 > One of my research interests is the development of **parent-child interactions**, in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
 >
@@ -57,7 +57,6 @@ title: Welcome
 >
 > - **Lin, H.** & Larzelere, R. E. (April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
 >
-> - Cox, R., **Lin, H.** & Larzelere, R. E., Sahbaz S., Washburn, I. J., Greder, K., Leon, M., Lopez, A. (April 2021). Latino Immigrant Family Language Discrepancies and Problematic Youth Outcomes: Parent-Youth Conflict as a Mediator. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
 
 [More Presentations...](/publications/#referred-conference-presentations)
 

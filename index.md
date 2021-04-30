@@ -5,7 +5,7 @@ title: Welcome
 
 ***********
 
-<h1>{{ page.title }}</h1>
+<h2>{{ page.title }}</h2>
 
 > Welcome to **Hua Lin**'s webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a post-doctoral fellow at Oklahoma State University. 
 
@@ -13,11 +13,11 @@ title: Welcome
 
 <a href="/home/"><img style="float: right; width: 540px; margin: 0px 5px 5px" src="images/Family3-1.jpg"></a>
 
-> One of my research interests is the development of [**parent-child interactions**](/research/#The Development of Parent-child Interactions), in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
+> One of my research interests is the development of [**parent-child interactions**](/research/#the-development-of-parent-child-interactions), in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
 >
-> My research interest in [**immigrant family well-being**](/research/#Resilience in Immigrant Families) focuses on how immigrant-related stress impacts adolescent health and behavior and how a psycho-educational intervention can buffer against stress and/or ameliorate the effects of stress in immigrant families from a resilience perspective.
+> My research interest in [**immigrant family well-being**](/research/#resilience-in-immigrant-families) focuses on how immigrant-related stress impacts adolescent health and behavior and how a psycho-educational intervention can buffer against stress and/or ameliorate the effects of stress in immigrant families from a resilience perspective.
 >
-> My research interest in [**quantitative methods**](/research/#aking Causal Inference in Longitudinal Analyses) is enhancing causal evidence from non-randomized longitudinal research designs, cross-cultural psychometric appropriations (including Item Response Theory), and statistic model comparison (mediation moderation, propensity score matching, SEM models, HLM models, Latent class analysis, dual-centered ANCOVA, etc.). 
+> My research interest in [**quantitative methods**](/research/#making-causal-inference-in-longitudinal-analyses) is enhancing causal evidence from non-randomized longitudinal research designs, cross-cultural psychometric appropriations (including Item Response Theory), and statistic model comparison (mediation moderation, propensity score matching, SEM models, HLM models, Latent class analysis, dual-centered ANCOVA, etc.). 
 
 > I am also applying **statistical software** such as Stata, Mplus, R, SAS, and Python in research and teaching. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshop (e.g., Introduction to R) and Software Workshop (e.g., Python).
 

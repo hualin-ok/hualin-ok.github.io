@@ -77,6 +77,8 @@ permalink: /research/
 > - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (invited resubmission). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*.
 >
 > - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (invited resubmission), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*.  
+> 
+> - Cox, R. B. Jr., **Lin, H.**, Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (under review). Validation fo the Family Fear of Deportation Scale for Youth. Family Relations.
 >
 > - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (invited resubmission). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >

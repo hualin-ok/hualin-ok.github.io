@@ -19,7 +19,7 @@ title: Welcome
 >
 > My research interest in [**quantitative methods**](/research/#making-causal-inference-in-longitudinal-analyses) is enhancing causal evidence from non-randomized longitudinal research designs, cross-cultural psychometric appropriations (including Item Response Theory), and statistic model comparison (mediation moderation, propensity score matching, SEM models, HLM models, Latent class analysis, dual-centered ANCOVA, etc.). 
 
-> I am also applying [**statistical software**](/research/#data-visualization) such as Stata, Mplus, R, SAS, and Python in research and teaching. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshops (e.g., Introduction to R) and Software [Workshops](/workshoops) (e.g., Python) at OSU.
+> I am also applying [**statistical software**](/research/#data-visualization) such as Stata, Mplus, R, SAS, and Python in research and teaching. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshops (e.g., Introduction to R) and Software [Workshops](/workshops) (e.g., Python) at OSU.
 
 > [More...](/research)
 

@@ -37,7 +37,7 @@ title: Welcome
 
 ## Recent Presentations
 >
->**Lin, H.** & Larzelere, R. E (April 2021). Dual-Centered ANCOVA Overcomes Bias in ANCOVA with More Statistical Power than Difference-Score Analyses. Paper presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
+> - **Lin, H.** & Larzelere, R. E (April 2021). Dual-Centered ANCOVA Overcomes Bias in ANCOVA with More Statistical Power than Difference-Score Analyses. Paper presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
 >
 > - **Lin, H.** & Larzelere, R. E. (April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
 >

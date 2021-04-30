@@ -7,6 +7,8 @@ title: Home
 
 <h4>{{ page.title }}</h4>
 
+<a href="/home/"><img style="float: center; width: 200px; margin: 0px 5px 5px" src="images/Family3-1.jpg"></a>
+
 > Welcome to Hua Lin's webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a post-doctoral fellow at Oklahoma State University. 
 
 ## Research Interests

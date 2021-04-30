@@ -22,7 +22,7 @@ title: Welcome
 > I am also applying [**statistical software**](/research/#data-visualization) such as Stata, Mplus, R, SAS, and Python in research and teaching. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshops (e.g., Introduction to R) and Software [Workshops](/workshops) (e.g., Python) at OSU.
 >
 > [More...](/research)
-
+>
 ## Recent Publications
 >
 > - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. Children, 8, 256. doi:10.3390/children8040256
@@ -34,7 +34,7 @@ title: Welcome
 > - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [doi:10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).
 >
 > [More Publicaitons...](/publications)
-
+>
 ## Recent Presentations
 >
 > - **Lin, H.** & Larzelere, R. E (April 2021). Dual-Centered ANCOVA Overcomes Bias in ANCOVA with More Statistical Power than Difference-Score Analyses. Paper presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
@@ -47,7 +47,6 @@ title: Welcome
 >
 > - Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (June, 2021). Promis Pediatric Psychological Stress Measure Is Gender and Acculturation Invariant for Immigrant Latino Youth. Poster will be presented at the Society for Prevention Research 29th Annual Meeting.
 >
-
 [More Presentations...](/publications/#referred-conference-presentations)
-
+>
 ***********************

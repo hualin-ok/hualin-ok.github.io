@@ -22,9 +22,9 @@ title: Welcome
 > I am also applying [**statistical software**](/research/#data-visualization) such as Stata, Mplus, R, SAS, and Python in research and teaching. I have been certified by Data Carpentry to teach data management and statistic programs in Data Carpentry Workshops (e.g., Introduction to R) and Software [Workshops](/workshops) (e.g., Python) at OSU.
 >
 > [More...](/research)
->
-## Recent Publications
 
+## Recent Publications
+>
 > - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. Children, 8, 256. [doi:10.3390/children8040256](https://www.mdpi.com/2227-9067/8/4/256)
 > 
 > - **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [doi:10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001).

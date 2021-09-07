@@ -8,10 +8,16 @@ permalink: /publications/
 
 ## Publications
 >
-> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (conditionally accepted). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
+> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (conditionallyy accepted), Adding an Item Response Insight to understand Pro-tourism Behavior Scale. *Journal of Business Research*.  
 >
-> - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (conditionally accepted). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
+> - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (accepted). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
 > 
+> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (accepted). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*.
+>
+> - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (accepted). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
+>
+> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (in press). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
+>
 > - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. *Children*, 8, 256. [doi:10.3390/children8040256](https://www.mdpi.com/2227-9067/8/4/256)
 >
 > - **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [doi:10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001).
@@ -28,12 +34,6 @@ permalink: /publications/
 
 ## Manuscripts under Review/revision
 > - **Lin, H.**, & Larzelere, R. E. (invited resubmission). Toward understanding contradictory methods for reducing selection bias in longitudinal analyses: A simulation of treatment for physical health. *Practical Assessment, Research, and Evaluation*.
->
-> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (invited resubmission). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*.
->
-> - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (invited resubmission). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
->
-> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (invited resubmission), Adding an Item Response Insight to understand Pro-tourism Behavior Scale. *Journal of Business Research*.  
 >
 > - Larzelere, R. E., Knowles, S. J., Curtis, J., Oliver, M. G., Bigler, J. F., **Lin H.**, & Larzelere W. A. (under review). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. *Journal of Child and Family Studies*.
 >
@@ -102,6 +102,10 @@ permalink: /publications/
 > -  **Lin, H.**, & Larzelere, R. E. (March, 2015). How Parenting Strategies Vary by Momentary Parenting Goals. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 
 ### Poster presentations
+>
+Cox, R., Lin, H., Washburn, I. J., DeSouza, D. K., Bao, J., & Greder, K. (November 2021). Latino Immigrant Family Share Language Erosion and Internalizing, Externalizing problems: Parent-Youth Conflict As a Mediator. Poster will be presented at the the 2021 National Hispanic Science Network Conference.
+>
+Leon Cartagena, M., Sahbaz S., Lin, H., Arredondo, Lopez, A., & Cox, R. (September, 2021). Fear of Deportation, Stress and Hispanic Early Adolescent’s Substance Use: Hope as a Moderator. Poster presented at the 2021 National Hispanic Science Network Conference, Grand Rapids, MI.
 >
 > - Cox, R., **Lin, H.** & Larzelere, R. E., Sahbaz S., Washburn, I. J., Greder, K. (June 2021). Latino Immigrant Family Language Erosion and Youth Alcohol, Tobacco, and Other Drug Use Attitude:Parent-Youth Conflict As a Mediator. Poster will be presented at the Society for Prevention Research 29th Annual Meeting.
 >

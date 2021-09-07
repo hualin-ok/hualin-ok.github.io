@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Publications
 >
-> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (conditionallyy accepted), Adding an Item Response Insight to understand Pro-tourism Behavior Scale. *Journal of Business Research*.  
+> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (conditionallyy accepted), Advancing the understanding of Residents’ Pro-tourism Behavior Scale: an integration of Item Response Theory and Class Test Theory. *Journal of Business Research*.  
 >
 > - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (accepted). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
 > 

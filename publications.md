@@ -8,16 +8,16 @@ permalink: /publications/
 
 ## Publications
 >
-> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (conditionallyy accepted), Advancing the understanding of Residents’ Pro-tourism Behavior Scale: an integration of Item Response Theory and Class Test Theory. *Journal of Business Research*.  
->
-> - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (accepted). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
+> - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (in press). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
 > 
-> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (accepted). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*.
+> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (in press). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*.
 >
 > - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (accepted). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >
-> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (in press). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
+> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (2022), Advancing the understanding of Residents’ Pro-tourism Behavior Scale: an integration of Item Response Theory and Class Test Theory. *Journal of Business Research*, 141, 113-125. .[doi: 10.1016/j.jbusres.2021.12.013](https://doi.org/10.1016/j.jbusres.2021.12.013)  
 >
+> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (2021). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*. .[doi: 10.1080/00952990.2021.1981357](https://doi.org/10.1080/00952990.2021.1981357)
+ >
 > - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. *Children*, 8, 256. [doi:10.3390/children8040256](https://www.mdpi.com/2227-9067/8/4/256)
 >
 > - **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [doi:10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001).

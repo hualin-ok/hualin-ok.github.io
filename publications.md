@@ -37,7 +37,9 @@ permalink: /publications/
 >
 > - Larzelere, R. E., Knowles, S. J., Curtis, J., Oliver, M. G., Bigler, J. F., **Lin H.**, & Larzelere W. A. (under review). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. *Journal of Child and Family Studies*.
 >
-> - Cox, R. B. Jr., Lin, H., Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (under review). Validation fo the Family Fear of Deportation Scale for Youth. Family Relations.
+> - Cox, R. B. Jr., Lin, H., Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (under review). Validation fo the Family Fear of Deportation Scale for Youth. *Family Relations*.
+>
+> - DeSouza, D. K., Lin. H., & Cox, R. B. Jr. (under review). Navigating Two Languages & Immigrant Parent-Child Relationships: A Scoping Review. *Journal of Family Theory & Review*.
 >
 > - Liu, J., **Lin, H.**, Hu, B., & Yang., C. (under review), Overlooking the response options? An Item Response validation of the Workplace Incivility Scale. *International Journal of Hospitality Management*.
 > 

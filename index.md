@@ -7,7 +7,7 @@ title: Welcome
 
 <h2>{{ page.title }}</h2>
 
-> Welcome to **Hua Lin**'s webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a post-doctoral fellow at Oklahoma State University. 
+> Welcome to **Hua Lin**'s webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a post-doctoral fellow in the [Cennter for Immingrant Health and Eduation](https://education.okstate.edu/research/centers/center-immigrant-health-education/) at Oklahoma State University. 
 
 ## Research Interests
 

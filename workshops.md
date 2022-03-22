@@ -13,9 +13,9 @@ permalink: /workshops/
 ### R Online Workshops
 > Data manipulation, analysis, and visualization in R
 > 
-> - [Feburary 2022, Data Carpentry with R (https://osu-carpentry.github.io/2022-02-04-okstate-online/)
+> - [Feburary 2022, Data Carpentry with R](https://osu-carpentry.github.io/2022-02-04-okstate-online/)
 > 
-> - [September 2021, Data Carpentry with R (https://osu-carpentry.github.io/2021-09-22-okstate-online/)
+> - [September 2021, Data Carpentry with R](https://osu-carpentry.github.io/2021-09-22-okstate-online/)
 > 
 > - [March 2021, R for social science](https://osu-carpentry.github.io/2021-03-25-okstate/)
 > 

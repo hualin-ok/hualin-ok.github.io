@@ -16,10 +16,10 @@ permalink: /about/
 > @Oklahoma State University <br/>
 
 ## Contact Me
-> [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br/>
 > [experts@OSU](https://experts.okstate.edu/hua.lin/) <br/>
 > [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)  <br/>
-> [Webpage](https://hualin-ok.github.io/)  <br/>
 > [ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)
+> [Webpage](https://hualin-ok.github.io/)  <br/>
+> [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br/>
 
 *****************

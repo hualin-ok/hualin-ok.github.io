@@ -12,27 +12,27 @@ permalink: /publications/
 >
 > - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (accepted). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >
-> - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (2022). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*. https://doi.org/10.1111/fare.12652
+> - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (2022). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*. [https://doi.org/10.1111/fare.12652](https://doi.org/10.1111/fare.12652)
 > 
-> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (2022). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*. https://doi.org/10.1111/fare.12651
+> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (2022). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*. [https://doi.org/10.1111/fare.12651](https://doi.org/10.1111/fare.12651)
 >
-> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (2022), Advancing the understanding of Residents’ Pro-tourism Behavior Scale: an integration of Item Response Theory and Class Test Theory. *Journal of Business Research*, 141, 113-125. https://doi.org/10.1016/j.jbusres.2021.12.013  
+> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (2022), Advancing the understanding of Residents’ Pro-tourism Behavior Scale: an integration of Item Response Theory and Class Test Theory. *Journal of Business Research*, 141, 113-125. [https://doi.org/10.1016/j.jbusres.2021.12.013](https://doi.org/10.1016/j.jbusres.2021.12.013)  
 >
-> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (2021). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*. .https://doi.org/10.1080/00952990.2021.1981357
+> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (2021). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*. [https://doi.org/10.1080/00952990.2021.1981357](https://doi.org/10.1080/00952990.2021.1981357)
  >
-> - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. *Children*, 8, 256.https://www.mdpi.com/2227-9067/8/4/256
+> - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. *Children*, 8, 256. [https://www.mdpi.com/2227-9067/8/4/256](https://www.mdpi.com/2227-9067/8/4/256)
 >
-> - **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. https://doi.org/10.1016/j.adolescence.2020.11.001
+> - **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [https://doi.org/10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001)
 >
-> - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. https://doi.org/10.1016/j.adolescence.2020.04.007
+> - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [https://doi.org/10.1016/j.adolescence.2020.04.007](https://doi.org/10.1016/j.adolescence.2020.04.007)
 >
-> - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. http://doi.org/10.1080/10705511.2020.1732826
+> - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [http://doi.org/10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826)
 >
-> - **Lin, H.,** Richie, K. L., & Larzelere, R. E. (2020). Applying a momentary parenting goal-regulation model to discipline episodes with toddlers. *Journal of Child and Family Studies*, 29, 1055–1069. http://doi.org/10.1007/s10826-020-01698-1
+> - **Lin, H.,** Richie, K. L., & Larzelere, R. E. (2020). Applying a momentary parenting goal-regulation model to discipline episodes with toddlers. *Journal of Child and Family Studies*, 29, 1055–1069. [http://doi.org/10.1007/s10826-020-01698-1](http://doi.org/10.1007/s10826-020-01698-1)
 >
-> - Larzelere, R.E., Gunnoe, M. L., Roberts, M. W., **Lin, H.**, Ferguson, C. J. (2020). Causal evidence for exclusively positive parenting and timeout. *Marriage & Family Review*, 56, 287-319. http://doi.org/10.1080/01494929.2020.1712304
+> - Larzelere, R.E., Gunnoe, M. L., Roberts, M. W., **Lin, H.**, Ferguson, C. J. (2020). Causal evidence for exclusively positive parenting and timeout. *Marriage & Family Review*, 56, 287-319. [http://doi.org/10.1080/01494929.2020.1712304](http://doi.org/10.1080/01494929.2020.1712304)
 >
-> - Larzelere, R. E., **Lin, H.**, Payton, M. E., & Washburn, I. J. (2018). Longitudinal biases against corrective actions. *Archives of Scientific Psychology*, 6, 243-250. http://doi.org/10.1037/arc0000052
+> - Larzelere, R. E., **Lin, H.**, Payton, M. E., & Washburn, I. J. (2018). Longitudinal biases against corrective actions. *Archives of Scientific Psychology*, 6, 243-250. [http://doi.org/10.1037/arc0000052](http://doi.org/10.1037/arc0000052)
 
 ## Manuscripts under Review/revision
 > - **Lin, H.**, & Larzelere, R. E. (invited resubmission). Toward understanding contradictory methods for reducing selection bias in longitudinal analyses: A simulation of treatment for physical health. *Practical Assessment, Research, and Evaluation*.

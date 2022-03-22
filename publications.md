@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Publications
 >
-> - Cox, R. B. Jr., Lin, H., Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (accepted). Validation fo the Family Fear of Deportation Scale for Youth. *Family Relations*.
+> - Cox, R. B. Jr., **Lin, H.**, Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (accepted). Validation fo the Family Fear of Deportation Scale for Youth. *Family Relations*.
 >
 > - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (accepted). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >

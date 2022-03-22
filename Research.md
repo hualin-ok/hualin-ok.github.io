@@ -21,9 +21,9 @@ permalink: /research/
 >
 ### Resilience in Immigrant Families
 >
-> - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. *Children*, 8, 256. [doi:10.3390/children8040256](https://www.mdpi.com/2227-9067/8/4/256)
+> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (2022). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*. https://doi.org/10.1080/00952990.2021.1981357
 >
-> - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (invited resubmission). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*.
+> - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. *Children*, 8, 256. [doi:10.3390/children8040256](https://www.mdpi.com/2227-9067/8/4/256)
 >
 > - Cox, R., **Lin, H.** & Larzelere, R. E., Sahbaz S., Washburn, I. J., Greder, K., Leon, M., Lopez, A. (April 2021). Latino Immigrant Family Language Discrepancies and Problematic Youth Outcomes: Parent-Youth Conflict as a Mediator. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
 >
@@ -49,16 +49,16 @@ permalink: /research/
 >
 ### Measurements
 >
-> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (accepted). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*.
+> - Cox, R. B. Jr., **Lin, H.**, Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (accepted). Validation fo the Family Fear of Deportation Scale for Youth. Family Relations.
 >
-> - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (accepted). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*.
-> 
-> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (conditionally accepted), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*.  
-> 
 > - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (accepted). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >
-> - Cox, R. B. Jr., **Lin, H.**, Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (under review). Validation fo the Family Fear of Deportation Scale for Youth. Family Relations.
+> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (2022). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*. https://doi.org/10.1111/fare.12651
 >
+> - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (2022). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*. https://doi.org/10.1111/fare.12652
+> 
+> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (2022), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*. https://doi.org/10.1016/j.jbusres.2021.12.013 
+> 
 ### Machine Learning
 >
 > - **Lin, H.** & Larzelere, R. E.(April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development. 
@@ -69,6 +69,10 @@ permalink: /research/
 >
 
 <h2> Grant and Research Activities</h2>
+>
+### Grants Funded
+>
+> - *2021*   National Institute of Child Health and Human Development R03 HD107307 (2021-2023). Improving Causal Inferences in Child and Family Behavioral Research (ranked in the top 2% of all NIH submissions, awarded in Sep. 2021). $148,600. Co-Principal Investigator – FTE = 33%.
 >
 ### Grants Submitted and Under Review
 >

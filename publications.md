@@ -43,12 +43,15 @@ permalink: /publications/
 ## Manuscripts under Review/revision
 > - **Lin, H.**, & Larzelere, R. E. (invited resubmission). Toward understanding contradictory methods for reducing selection bias in longitudinal analyses: A simulation of treatment for physical health. *Practical Assessment, Research, and Evaluation*.
 >
-> - Larzelere, R. E., Knowles, S. J., Curtis, J., Oliver, M. G., Bigler, J. F., **Lin H.**, & Larzelere W. A. (under review). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. *Journal of Child and Family Studies*.
+> - Larzelere, R. E., Knowles, S. J., Adkison-Johnson, C., Cox, R. B. Jr., **Lin. H.**, & Mandara, J. (invited resubmission). Ethnic Differences in the Effects of Five Disciplinary Techniques on Subsequent Externalizing Behavior Problems. *Marriage and Family Review*.
 >
-> - DeSouza, D. K., Lin. H., & Cox, R. B. Jr. (invited resubmission). Navigating Two Languages & Immigrant Parent-Child Relationships: A Scoping Review. *Journal of Family Theory & Review*.
+> - **Lin, H.**, & Larzelere, R. E. (under review). Lord’s paradox illustrated in three-wave longitudinal analyses: cross lagged panel models versus linear latent growth models. *Methods in Psychology*.
 >
 > - Liu, J., **Lin, H.**, Hu, B., & Yang., C. (under review), Overlooking the response options? An Item Response validation of the Workplace Incivility Scale. *International Journal of Hospitality Management*.
-> 
+> - Cox, R. B., **Lin, H.**, Larzelere, R. E., & Bao J., (under review). Fear of deportation, stress and Hispanic early adolescents’ substance use: hope as a moderator. *Prevention Science*.
+>
+> - **Lin, H.**, Greder, K., Larzelere, R. E., Washburn, I. J., & Cox. Jr., R. B (under review). The influence of parent-youth shared language erosion on Hispanic immigrant youth anxiety problems. *Journal of Immigrant and Minority Health*.
+
 
 ## Referred Conference Presentations 
 

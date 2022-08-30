@@ -23,7 +23,7 @@ permalink: /research/
 >
 ### Resilience in Immigrant Families
 >
-> - DeSouza, D. K., Lin. H., & Cox, R. B. Jr. (conditionally accepted). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*.
+> - DeSouza, D. K., **Lin. H.**, & Cox, R. B. Jr. (conditionally accepted). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*.
 >
 > - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (2022). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*. https://doi.org/10.1080/00952990.2021.1981357
 >

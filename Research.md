@@ -9,9 +9,11 @@ permalink: /research/
 >
 ### The Development of Parent-child Interactions
 >
+> - Larzelere, R. E., Ritchie, K. L., Knowles, S. J., Curtis, J., **Lin H.**, Oliver, M. G., Bigler, J. F., & Larzelere W. A. (2022). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. Journal of Child and Family Studies. https://doi.org/10.1007/s10826-022-02367-1
+>
 > - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](https://doi.org/10.1016/j.adolescence.2020.04.007).
 >
-> - **Lin, H.,** Richie, K. L., & Larzelere, R. E. (2020). Applying a momentary parenting goal-regulation model to discipline episodes with toddlers. *Journal of Child and Family Studies*, 29, 1055–1069. [doi:10.1007/s10826-020-01698-1](http://doi.org/10.1007/s10826-020-01698-1).
+> - **Lin, H.,** Richie, K. L., & Larzelere, R. E. (2020). Applying a momentary parenting goal-regulation model to discipline episodes with toddlers. *Journal of Child and Family Studies*, 29, 1055–1069.http://doi.org/10.1007/s10826-020-01698-1.
 >
 > -  Larzelere, R. E., Beasley, L. & **Lin, H.** (June, 2020). Can Age-Appropriate Reasoning Potentially Improve Behavioral Parent Training for Oppositional Preschoolers? Poster was presented at the Journal of Clinical Child and Adolescent Psychology 4th Future Directions Forum, Virtual conference. 
 >
@@ -20,6 +22,8 @@ permalink: /research/
 > -  Harrist, A. W., Rutledge, J., Liu, C., & **Lin, H.** (March, 2015). Inter-Parent Aggression Predicts Children’s Relationally but not Physically Aggressive Social Problem Solving. Poster presented at the 2015 biennial meeting of the Society for Research in Child Development, Philadelphia, PA. 
 >
 ### Resilience in Immigrant Families
+>
+> - DeSouza, D. K., Lin. H., & Cox, R. B. Jr. (conditionally accepted). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*.
 >
 > - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (2022). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*. https://doi.org/10.1080/00952990.2021.1981357
 >
@@ -49,15 +53,17 @@ permalink: /research/
 >
 ### Measurements
 >
-> - Cox, R. B. Jr., **Lin, H.**, Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (accepted). Validation fo the Family Fear of Deportation Scale for Youth. Family Relations.
+> - Hsu, F., Liu, J., **Lin, H.** (2022). Affective components of gastronomy tourism: Measurement scale development and validation. International Journal of Contemporary Hospitality Management. https://doi.org/10.1108/IJCHM-09-2021-1112
+> 
+> - Cox, R. B. Jr., **Lin, H.**, Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (2022). Validation fo the Family Fear of Deportation Scale for Youth. *Family Relations*. https://doi.org/10.1111/fare.12719
 >
-> - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (accepted). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
+> - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (2022). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
 >
 > - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (2022). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*. https://doi.org/10.1111/fare.12651
 >
 > - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (2022). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*. https://doi.org/10.1111/fare.12652
 > 
-> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (2022), In Item Response Theory framework to understand Residents’ Pro-tourism Behaviors. *Journal of Business Research*. https://doi.org/10.1016/j.jbusres.2021.12.013 
+> - Liu, J., **Lin, H.**, Hu, B., Zhou, Z., Agyeiwaah, E., & Xu, Y. (2022), Advancing the understanding of Residents’ Pro-tourism Behavior Scale: an integration of Item Response Theory and Class Test Theory. *Journal of Business Research*. https://doi.org/10.1016/j.jbusres.2021.12.013 
 > 
 ### Machine Learning
 >

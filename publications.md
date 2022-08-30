@@ -8,9 +8,15 @@ permalink: /publications/
 
 ## Publications
 >
-> - Cox, R. B. Jr., **Lin, H.**, Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (accepted). Validation fo the Family Fear of Deportation Scale for Youth. *Family Relations*.
+> - DeSouza, D. K., **Lin. H.**, & Cox, R. B. Jr. (conditionally accepted). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*.
 >
-> - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (accepted). A measure of educators’ teaching style and its relationship with efficacy. *The Australian Educational Researcher*. 
+> - Larzelere, R. E., Ritchie, K. L., Knowles, S. J., Curtis, J., **Lin H.**, Oliver, M. G., Bigler, J. F., & Larzelere W. A. (2022). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. *Journal of Child and Family Studies*. https://doi.org/10.1007/s10826-022-02367-1
+>
+> - Cox, R. B. Jr., **Lin, H.**, Leon Cartagena, M., Greder, K., Larzelere, R. E., & Washburn, I. J. (2022). Validation fo the Family Fear of Deportation Scale for Youth. *Family Relations*. https://doi.org/10.1111/fare.12719
+>
+> - Hsu, F., Liu, J., **Lin, H.** (2022). Affective components of gastronomy tourism: Measurement scale development and validation. *International Journal of Contemporary Hospitality Management*. https://doi.org/10.1108/IJCHM-09-2021-1112
+> 
+> - Atiles, J., **Lin, H.**, Buffington, J. D., & Larzelere, R. E. (2022). A measure of educators’ teaching style and its relationship with efficacy. *Educational Research Quarterly*, 45(3), 46-82. 
 >
 > - Sahbaz, S., Cox, R. B. Jr., **Lin, H.**, Washburn, I. J., & Greder, K. (2022). PROMIS Pediatric Psychological Stress Measure: Validity for immigrant Latino youth. *Family Relations*. [https://doi.org/10.1111/fare.12652](https://doi.org/10.1111/fare.12652)
 > 

@@ -8,9 +8,9 @@ permalink: /about/
 
 ## Aount Me
 > Hua Lin, Ph.D <br/>
+> Research Asistant Professor <br/>
 > Developmental and family scientist <br/>
 > Quantitative research methodologist <br/>
-> Post-doctoral fellow <br/>
 > Working on several NIH funding projects <br/>  
 > *Department of Human Development and Family Science* <br/>
 > @Oklahoma State University <br/>

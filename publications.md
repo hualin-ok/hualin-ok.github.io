@@ -61,7 +61,7 @@ permalink: /publications/
 ### Conference Symposium 
 >
 #### Pape symposimn: 2022 Zarrow Mental Health Symposium – Exploring fgamily Constructs
-> - Cox, R.B., Arredondo, A., Leon-Catagena, **Lin, H.**, &  Lopez, A. (September, 2022). *Shared Language Erosion Among Immigrant Families.* Paper will be presented at the Zarrow Mental Health Symposium, Seattle, WA.
+> - Cox, R.B., Arredondo, A., Leon-Catagena, **Lin, H.**, &  Lopez, A. (September, 2022). *Shared Language Erosion Among Immigrant Families.* Paper will be presented at the Zarrow Mental Health Symposium, Virtual.
 >
 #### Paper symposium: Shared Language Erosion: A Theoretical Twist for Predicting Immigrant Adaptation and Health – SPR 2022
 >
@@ -70,7 +70,7 @@ permalink: /publications/
 > - Sahbaz S., Leon-Catagena, Arredondo, A., M., **Lin, H.**, deSouza, D., & Cox, R.B. (May, 2022). *Shared Language Erosion and Acculturation Theory: Unique Variance or More of the Same?* Paper presented at the Society for Prevention Research 27th Annual Meeting, Seattle, WA.
 >
 > - **Lin, H.**, Arredondo, A., Leon-Catagena, M., deSouza, D., Sahbaz S., & Cox, R.B. (May, 2022). *Shared Language Erosion: A Theoretical Twist for Predicting Immigrant Adaptation and Health.* Paper presented at the Society for Prevention Research 27th Annual Meeting, Seattle, WA.
-
+>
 #### Regression Toward the Mean, Lord’s Paradox, and Modeling or Forecasting Change in Longitudinal Analyses – SRCD 2021
 >
 > - **Lin, H.** & Larzelere, R. E (April 2021). *Dual-Centered ANCOVA Overcomes Bias in ANCOVA with More Statistical Power than Difference-Score Analyses.* Paper presented in a paper symposium at the 2021 virtual biennial meeting of the Society for Research in Child Development.

@@ -9,6 +9,8 @@ permalink: /research/
 >
 ### The Development of Parent-child Interactions
 >
+> - Larzelere, R. E., Knowles, S. J., Adkison-Johnson, C., Cox, R. B., **Lin. H.**, & Mandara, J. (2023). Ethnic Differences in the Effects of Five Disciplinary Techniques on Subsequent Externalizing Behavior Problems. *Marriage and Family Review*. https://doi.org/10.1080/01494929.2023.2199732
+>
 > - Larzelere, R. E., Ritchie, K. L., Knowles, S. J., Curtis, J., **Lin H.**, Oliver, M. G., Bigler, J. F., & Larzelere W. A. (2022). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. Journal of Child and Family Studies. https://doi.org/10.1007/s10826-022-02367-1
 >
 > - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](https://doi.org/10.1016/j.adolescence.2020.04.007).
@@ -23,7 +25,9 @@ permalink: /research/
 >
 ### Resilience in Immigrant Families
 >
-> - DeSouza, D. K., **Lin. H.**, & Cox, R. B. Jr. (conditionally accepted). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*.
+> - Cox, R. B., **Lin, H.**, Larzelere, R. E., & Bao J., (2023). Fear of deportation, stress, and Hispanic early adolescents’ substance use: hope as a moderator. *Prevention Science*. https://doi.org/10.1007/s11121-023-01593-3
+>
+> - DeSouza, D. K., **Lin. H.**, & Cox, R. B. Jr. (2023). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*, 15(1), 133-161. https://doi.org/10.1111/jftr.12484.
 >
 > - Cox, R., Washburn, I. J., Greder, K., Sahbaz S., & **Lin, H.** (2022). Preventing substance use among Latino youth: Initial results from a multistate family-based program focused on youth academic success. *The American Journal of Drug and Alcohol Abuse*. https://doi.org/10.1080/00952990.2021.1981357
 >
@@ -78,16 +82,16 @@ permalink: /research/
 >
 ### Grants Funded
 >
+> - *2023*    National Institute of Child Health and Human Development R15 HD112867-01 (2023-2026). Shared Language Erosion Among Chinese Immigrant Families. $448,800. Principal Investigator – FTE = 21%.
+>
+> - *2023*    National Institute of Child Health and Human Development R15 HD112895-01 (2023-2026). Randomized Control Trial of the Co-Parenting for Resilience Program. $443,317. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
+>
+> - *2023*    United States Department of Agriculture (2023-2028). Oklahoma State University Sustainable Community Project – The United We Can: Positive Youth Development Program. $640,000. Cox Jr. (PI), Role: Co-I, Project Evaluator – FTE = 15%.
+>
 > - *2021*   National Institute of Child Health and Human Development R03 HD107307 (2021-2023). Improving Causal Inferences in Child and Family Behavioral Research (ranked in the top 2% of all NIH submissions, awarded in Sep. 2021). $148,600. Co-Principal Investigator – FTE = 33%.
 >
-### Grants Submitted and Under Review
->
-> - *2021*   National Instituted of Child Health and Human Development (2021-2023). Improving Children’s Behavioral Health by Improving Basic Parenting Research with Better Approximations of Causal Validity in Longitudinal Analyses (under review). **Co-Principal Investigator**.
-> 
-> - *2020*   National Institute of Drug Abuse (2021-2023). Parent-Child Language Discrepancies and ATOD use among Latino Immigrants (under review). **Co-Principal Investigator**.
->
-> - *2020*   National Institute of General Medical Sciences (2021-2025). Relationship of Resiliency factors in American Indian Parents and Youth to Adverse Childhood Events and Suicide Ideation (under review). **Co-Principal Investigator**.
->
+> - *2021*    National Institute of Food and Agriculture, 2018-41520-28907 (2021-2026). CYFAR Oklahoma State University and West Virginia University Multi-State Sustainable Community Project The United We Can: Positive Youth Development Program ($1,280,000). Cox Jr. (MPI), Role: Co-I, Project Evaluator – FTE = 20%.
+
 ### Data Analysis for the Funded Projects
 >
 > - *2019*  National Institutes of Health, National Institute on Drug Abuse (2019-2022). Reducing Alcohol, Tobacco, and Drug Use Among Latino Immigrant Youth: A Preliminary Test of the ¡Unidos Se Puede! Program (R15DA049232). $444,774. R. Cox, PI.

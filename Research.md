@@ -67,7 +67,7 @@ permalink: /research/
 > 
 ### Machine Learning
 >
-> - **Lin, H.** & Larzelere, R. E.(April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development. 
+> - **Lin, H.** Lam, W., & Larzelere, R. E.(April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development. 
 >
 ### Data Visualization
 >

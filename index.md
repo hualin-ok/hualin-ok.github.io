@@ -41,7 +41,7 @@ title: Welcome
 >
 > - **Lin, H.** & Larzelere, R. E (April 2021). Dual-Centered ANCOVA Overcomes Bias in ANCOVA with More Statistical Power than Difference-Score Analyses. Paper presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
 >
-> - **Lin, H.** & Larzelere, R. E. (April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
+> - **Lin, H.** Lam, W., & Larzelere, R. E. (April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
 >
 > - Cox, R., **Lin, H.** & Larzelere, R. E., Sahbaz S., Washburn, I. J., Greder, K. (June 2021). Latino Immigrant Family Language Erosion and Youth Alcohol, Tobacco, and Other Drug Use Attitude:Parent-Youth Conflict As a Mediator. Poster will be presented at the Society for Prevention Research 29th Annual Meeting.
 >

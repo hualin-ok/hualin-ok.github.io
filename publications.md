@@ -8,6 +8,10 @@ permalink: /publications/
 
 ## Publications
 >
+> - Cox, R. B., **Lin, H.**, Larzelere, R. E., & Bao J., (2023). Fear of deportation, stress, and Hispanic early adolescents’ substance use: hope as a moderator. *Prevention Science*. https://doi.org/10.1007/s11121-023-01593-3
+>
+> - Larzelere, R. E., Knowles, S. J., Adkison-Johnson, C., Cox, R. B., **Lin. H.**, & Mandara, J. (2023). Ethnic Differences in the Effects of Five Disciplinary Techniques on Subsequent Externalizing Behavior Problems. *Marriage and Family Review*. https://doi.org/10.1080/01494929.2023.2199732
+>
 > - DeSouza, D. K., **Lin. H.**, & Cox, R. B. Jr. (conditionally accepted). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*.
 >
 > - Larzelere, R. E., Ritchie, K. L., Knowles, S. J., Curtis, J., **Lin H.**, Oliver, M. G., Bigler, J. F., & Larzelere W. A. (2022). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. *Journal of Child and Family Studies*. https://doi.org/10.1007/s10826-022-02367-1

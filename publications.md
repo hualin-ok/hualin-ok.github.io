@@ -12,7 +12,7 @@ permalink: /publications/
 >
 > - Larzelere, R. E., Knowles, S. J., Adkison-Johnson, C., Cox, R. B., **Lin. H.**, & Mandara, J. (2023). Ethnic Differences in the Effects of Five Disciplinary Techniques on Subsequent Externalizing Behavior Problems. *Marriage and Family Review*. https://doi.org/10.1080/01494929.2023.2199732
 >
-> - DeSouza, D. K., **Lin. H.**, & Cox, R. B. Jr. (conditionally accepted). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*.
+> - DeSouza, D. K., **Lin. H.**, & Cox, R. B. Jr. (2023). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*, 15(1), 133-161. https://doi.org/10.1111/jftr.12484.
 >
 > - Larzelere, R. E., Ritchie, K. L., Knowles, S. J., Curtis, J., **Lin H.**, Oliver, M. G., Bigler, J. F., & Larzelere W. A. (2022). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. *Journal of Child and Family Studies*. https://doi.org/10.1007/s10826-022-02367-1
 >

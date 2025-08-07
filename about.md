@@ -11,7 +11,7 @@ permalink: /about/
 > Research Asistant Professor <br/>
 > Developmental and family scientist <br/>
 > Quantitative research methodologist <br/>
-> Working on several NIH funding projects <br/>  
+> PI/Co-I of several NIH funded projects <br/>  
 > *Department of Human Development and Family Science* <br/>
 > @Oklahoma State University <br/>
 

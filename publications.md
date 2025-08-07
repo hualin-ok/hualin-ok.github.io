@@ -8,6 +8,12 @@ permalink: /publications/
 
 ## Publications
 >
+> - Larzelere, R. E. & **Lin, H.** (2025). An innovation to test treatment X Pretest Interactions with difference-in-differences. *Journal of Behavioral Data Science*. 5(1), 1–28. https://doi.org/10.35566/jbds/larzelere
+>
+> - Brorsen W., **Lin, H.**, & Larzelere, R. E. (2025). Critique of enhanced power claimed for quasi-ANCOVA and dual-centered ANCOVA. *PLoS One*, 20(1), e0317860. https://doi.org/10.1371/journal.pone.0317860
+>
+> - **Lin, H.**, & Larzelere, R. E. (2024). Lord’s paradox illustrated in three-wave longitudinal analyses: cross lagged panel models versus linear latent growth models. *Journal of Behavioral Data Science*. 4(2), 51-63. https://doi.org/10.35566/jbds/lin
+>
 > - Cox, R. B., **Lin, H.**, Larzelere, R. E., & Bao J., (2023). Fear of deportation, stress, and Hispanic early adolescents’ substance use: hope as a moderator. *Prevention Science*. https://doi.org/10.1007/s11121-023-01593-3
 >
 > - Larzelere, R. E., Knowles, S. J., Adkison-Johnson, C., Cox, R. B., **Lin. H.**, & Mandara, J. (2023). Ethnic Differences in the Effects of Five Disciplinary Techniques on Subsequent Externalizing Behavior Problems. *Marriage and Family Review*. https://doi.org/10.1080/01494929.2023.2199732

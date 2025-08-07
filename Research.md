@@ -25,6 +25,8 @@ permalink: /research/
 >
 ### Resilience in Immigrant Families
 >
+> - **Lin, H.**, Greder, K., Larzelere, R. E.,  Washburn, I. J. & Cox. Jr., R. B, (2025). The influence of parent-youth shared language erosion on Hispanic immigrant youth anxiety problems. *Journal of Nervous and Mental Disease*. 213(7), 180-185. https://doi.org/10.1097/NMD.0000000000001842
+>
 > - Cox, R. B., **Lin, H.**, Larzelere, R. E., & Bao J., (2023). Fear of deportation, stress, and Hispanic early adolescents’ substance use: hope as a moderator. *Prevention Science*. https://doi.org/10.1007/s11121-023-01593-3
 >
 > - DeSouza, D. K., **Lin. H.**, & Cox, R. B. Jr. (2023). Navigating two languages and immigrant parent-child relationships: A scoping review. *Journal of Family Theory & Review*, 15(1), 133-161. https://doi.org/10.1111/jftr.12484.
@@ -42,6 +44,12 @@ permalink: /research/
 > -  **Lin, H.**, & Henry C. S. (March, 2015). A Conceptual Framework of Family Resilience: Resilience in International Graduate Student Families. Paper presented at the Oklahoma Council on Family Relations Conference, Oklahoma City, OK.
 >
 ### Making Causal Inference in Longitudinal Analyses
+>
+> - Larzelere, R. E. & **Lin, H.** (2025). An innovation to test treatment X Pretest Interactions with difference-in-differences. *Journal of Behavioral Data Science*. 5(1), 1–28. https://doi.org/10.35566/jbds/larzelere
+>
+> - Brorsen W., **Lin, H.**, & Larzelere, R. E. (2025). Critique of enhanced power claimed for quasi-ANCOVA and dual-centered ANCOVA. *PLoS One*, 20(1), e0317860. https://doi.org/10.1371/journal.pone.0317860
+>
+> - **Lin, H.**, & Larzelere, R. E. (2024). Lord’s paradox illustrated in three-wave longitudinal analyses: cross lagged panel models versus linear latent growth models. *Journal of Behavioral Data Science*. 4(2), 51-63. https://doi.org/10.35566/jbds/lin
 >
 > - **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [doi:10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001).
 >
@@ -81,6 +89,8 @@ permalink: /research/
 ## Grant and Research Activities
 >
 ### Grants Funded
+>
+> - *2023*    Oklahoma Tobacco Settlement Endowment Trust Programs G100063367 (2024-2027). Unidos Against Tobacco. $750,000. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
 >
 > - *2023*    National Institute of Child Health and Human Development R15 HD112867-01 (2023-2026). Shared Language Erosion Among Chinese Immigrant Families. $448,800. Principal Investigator – FTE = 21%.
 >

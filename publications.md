@@ -8,6 +8,8 @@ permalink: /publications/
 
 ## Publications
 >
+> - **Lin, H.**, Greder, K., Larzelere, R. E.,  Washburn, I. J. & Cox. Jr., R. B, (2025). The influence of parent-youth shared language erosion on Hispanic immigrant youth anxiety problems. *Journal of Nervous and Mental Disease*. 213(7), 180-185. https://doi.org/10.1097/NMD.0000000000001842
+>
 > - Larzelere, R. E. & **Lin, H.** (2025). An innovation to test treatment X Pretest Interactions with difference-in-differences. *Journal of Behavioral Data Science*. 5(1), 1–28. https://doi.org/10.35566/jbds/larzelere
 >
 > - Brorsen W., **Lin, H.**, & Larzelere, R. E. (2025). Critique of enhanced power claimed for quasi-ANCOVA and dual-centered ANCOVA. *PLoS One*, 20(1), e0317860. https://doi.org/10.1371/journal.pone.0317860

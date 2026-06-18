@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Home
+title: Insights
+permalink: /Insights/
 ---
 
 ***************
-<a href="/"><img style="float: center; width: 1000px; margin: 0px 5px 5px" src="/images/Family3-1.jpg"></a>
+As a researcher studying immigrant families and a parent navigating life between two cultures, I write here about everyday experiences of parenting and family life, drawing connections between lived moments and insights from research on family relationships and child development.
 
 ****************
 

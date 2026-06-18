@@ -85,33 +85,4 @@ permalink: /research/
 >
 > - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [doi:10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).
 >
-
-## Grant and Research Activities
->
-### Grants Funded
->
-> - *2023*    Oklahoma Tobacco Settlement Endowment Trust Programs G100063367 (2024-2027). Unidos Against Tobacco. $750,000. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
->
-> - *2023*    National Institute of Child Health and Human Development R15 HD112867-01 (2023-2026). Shared Language Erosion Among Chinese Immigrant Families. $448,800. Principal Investigator – FTE = 21%.
->
-> - *2023*    National Institute of Child Health and Human Development R15 HD112895-01 (2023-2026). Randomized Control Trial of the Co-Parenting for Resilience Program. $443,317. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
->
-> - *2023*    United States Department of Agriculture (2023-2028). Oklahoma State University Sustainable Community Project – The United We Can: Positive Youth Development Program. $640,000. Cox Jr. (PI), Role: Co-I, Project Evaluator – FTE = 15%.
->
-> - *2021*   National Institute of Child Health and Human Development R03 HD107307 (2021-2023). Improving Causal Inferences in Child and Family Behavioral Research (ranked in the top 2% of all NIH submissions, awarded in Sep. 2021). $148,600. Co-Principal Investigator – FTE = 33%.
->
-> - *2021*    National Institute of Food and Agriculture, 2018-41520-28907 (2021-2026). CYFAR Oklahoma State University and West Virginia University Multi-State Sustainable Community Project The United We Can: Positive Youth Development Program ($1,280,000). Cox Jr. (MPI), Role: Co-I, Project Evaluator – FTE = 20%.
-
-### Data Analysis for the Funded Projects
->
-> - *2019*  National Institutes of Health, National Institute on Drug Abuse (2019-2022). Reducing Alcohol, Tobacco, and Drug Use Among Latino Immigrant Youth: A Preliminary Test of the ¡Unidos Se Puede! Program (R15DA049232). $444,774. R. Cox, PI.
->
-> -	*2018*  National Institute of Food and Agriculture (2018-2023). CYFAR Oklahoma State and Langston University Multi-State Sustainable Community Project: United We Can Entrepreneurship Program for African American Youth (2018-41520-28907). $1,280,000. R. Cox, Co-Project director.
->
-> -	*2017*   National Institute of Food and Agriculture (2017-2022). CYFAR Oklahoma State Sustainable Community Project: Unidos Se Puede (United We Can) Entrepreneurship Program for Latino Youth (2017-41520-26875). $664,000. R. Cox, PI.
->
-> -	*2016*   National Institutes of Health, Institute of General Medical Science (2016-2021). Juntos Against Alcohol Tobacco and Drug Use Intervention Trial.  $2,233,800 as part of 5P20GM109097-02 to PI Jennifer Hays-Grudo. Total award for P20: $11.5 million. R. Cox, Project Director.
->
-> - *2014*   National Institute of Food and Agriculture (2014-2019).  CYFAR Iowa State Sustainable Community Project: Together for a Better Education. Subcontract $64,800.  R. Cox, Lead Evaluator.
-
 ***********************

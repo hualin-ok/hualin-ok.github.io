@@ -23,32 +23,18 @@ title: Welcome
 >
 > [More...](/research)
 
-## Seleted Publications
+## Research Grant Funded
 >
-> - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (2022). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*. [https://doi.org/10.1111/fare.12651](https://doi.org/10.1111/fare.12651)
-> 
-> - Cox, R. B. Jr., DeSouza, D. K., Bao, J., **Lin, H.**, Sahbaz S., Greder, K. A., Larzelere, R., Washburn, I. J., Leon Cartagena, M., & Arredondo, Lopez, A. (2021). Share Language Erosion: Rethinking Immigrant Family Communication and Impacts on Youth development. Children, 8, 256. [doi:10.3390/children8040256](https://www.mdpi.com/2227-9067/8/4/256)
-> 
-> - **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [doi:10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001).
+> - *2023*    Oklahoma Tobacco Settlement Endowment Trust Programs G100063367 (2024-2027). Unidos Against Tobacco. $750,000. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
 >
-> - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](http:/doi.org/10.1016/j.adolescence.2020.04.007)
+> - *2023*    National Institute of Child Health and Human Development R15 HD112867-01 (2023-2026). Shared Language Erosion Among Chinese Immigrant Families. $448,800. Principal Investigator – FTE = 21%.
 >
-> - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [http://doi.org/10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).
+> - *2023*    National Institute of Child Health and Human Development R15 HD112895-01 (2023-2026). Randomized Control Trial of the Co-Parenting for Resilience Program. $443,317. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
 >
-> [More Publicaitons...](/publications)
-
-## Recent Presentations
+> - *2023*    United States Department of Agriculture (2023-2028). Oklahoma State University Sustainable Community Project – The United We Can: Positive Youth Development Program. $640,000. Cox Jr. (PI), Role: Co-I, Project Evaluator – FTE = 15%.
 >
-> - **Lin, H.** & Larzelere, R. E (April 2021). Dual-Centered ANCOVA Overcomes Bias in ANCOVA with More Statistical Power than Difference-Score Analyses. Paper presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
+> - *2021*   National Institute of Child Health and Human Development R03 HD107307 (2021-2023). Improving Causal Inferences in Child and Family Behavioral Research (ranked in the top 2% of all NIH submissions, awarded in Sep. 2021). $148,600. Co-Principal Investigator – FTE = 33%.
 >
-> - **Lin, H.** Lam, W., & Larzelere, R. E. (April 2021). Using Machine Learning to Identify Key Predictors for Alcohol, Tobacco, and Drug Use in Adolescents. Poster will be presented at the 2021 virtual biennial meeting of the Society for Research in Child Development.
->
-> - Cox, R., **Lin, H.** & Larzelere, R. E., Sahbaz S., Washburn, I. J., Greder, K. (June 2021). Latino Immigrant Family Language Erosion and Youth Alcohol, Tobacco, and Other Drug Use Attitude:Parent-Youth Conflict As a Mediator. Poster will be presented at the Society for Prevention Research 29th Annual Meeting.
->
-> - Washburn, I. J., Broadbent, C., Cox, R., **Lin, H.**, & Larzelere, R. E. (June, 2021).Theory Driven Model Selection for Outcomes with Many Zeros: Why Are There so Many Zeros in My Data? Poster will be presented at the Society for Prevention Research 29th Annual Meeting.
->
-> - Sahbaz S., Cox, R., **Lin, H.**, Washburn, I. J., & Greder, K. (June, 2021). Promis Pediatric Psychological Stress Measure Is Gender and Acculturation Invariant for Immigrant Latino Youth. Poster will be presented at the Society for Prevention Research 29th Annual Meeting.
->
-[More Presentations...](/publications/#referred-conference-presentations)
+> - *2021*    National Institute of Food and Agriculture, 2018-41520-28907 (2021-2026). CYFAR Oklahoma State University and West Virginia University Multi-State Sustainable Community Project The United We Can: Positive Youth Development Program ($1,280,000). Cox Jr. (MPI), Role: Co-I, Project Evaluator – FTE = 20%.
 >
 ***********************

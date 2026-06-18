@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parental Control and Social withdrawal Across Seven Adolescent Years: A developmental Cascade Model
+title: "Parental Control and Social withdrawal Across Seven Adolescent Years: A developmental Cascade Model"
 ---
 
 *********

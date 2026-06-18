@@ -23,7 +23,7 @@ title: Welcome
 >
 > [More...](/research)
 
-## Research Grant Funded
+## Grants Funded
 >
 > - *2023*    Oklahoma Tobacco Settlement Endowment Trust Programs G100063367 (2024-2027). Unidos Against Tobacco. $750,000. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
 >

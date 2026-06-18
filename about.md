@@ -6,12 +6,12 @@ permalink: /about/
 
 *************
 
-## Aount Me
+## About Me
 > Hua Lin, Ph.D <br/>
-> Research Asistant Professor <br/>
+> Research Assistant Professor <br/>
 > Developmental and family scientist <br/>
 > Quantitative research methodologist <br/>
-> PI/Co-I of several NIH funded projects <br/>  
+> PI/Co-I & program evaluator on multiple federally funded projects <br/>  
 > *Department of Human Development and Family Science* <br/>
 > @Oklahoma State University <br/>
 

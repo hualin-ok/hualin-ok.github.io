@@ -75,5 +75,6 @@ permalink: /zh/
 > [ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)
 > [Webpage](https://hualin-ok.github.io/)  <br/>
 > [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)
-> 
+>
+-----
 → [家庭工作坊](/zh/workshops/) &nbsp;&nbsp; → [研究者说](/zh/insights/)

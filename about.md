@@ -8,7 +8,7 @@ permalink: /about/
 
 ## About Me
 > Hua Lin, Ph.D <br/>
-> Research Assistant Professor <br/>
+> Research Associate Professor <br/>
 > Developmental and family scientist <br/>
 > Quantitative research methodologist <br/>
 > PI/Co-I & program evaluator on multiple federally funded projects <br/>  

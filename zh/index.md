@@ -6,15 +6,13 @@ permalink: /zh/
 
 ***********
 >
-## 简介
->
-<a href="/zh/"><img style="float: right; width: 400px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
->
-桦林博士（Hua Lin, Ph.D.
+## 桦林博士（Hua Lin, Ph.D
 >
 >俄克拉荷马州立大学人类发展与家庭科学系研究副教授
 >
 ### 家庭关系研究学者｜联邦资助项目负责人｜家庭教育工作坊讲师
+>
+<a href="/zh/"><img style="float: right; width: 400px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
 >
 >🏛️ 5项美国联邦资助研究项目
 >>

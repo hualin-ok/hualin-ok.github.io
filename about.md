@@ -13,11 +13,11 @@ permalink: /about/
 >
 >### Family Relations Scholar ｜ Federally Funded Research Investigator ｜ Parenting Education Instructor
 
-> 🏛️ 5 federally funded research projects <br/>
-> 💰 Over $2.4 million in total research funding <br/>
-> 📚 20+ peer-reviewed publications <br/>
-> 📑 70+ research and evaluation reports <br/>
-> 👨‍👩‍👧‍👦 20+ parenting and family education workshops <br/>  
+> - 5 federally funded research projects <br/>
+> - Over $2.4 million in total research funding <br/>
+> - 20+ peer-reviewed publications <br/>
+> - 70+ research and evaluation reports <br/>
+> - 20+ parenting and family education workshops <br/>  
 > 🌏 English ｜ Mandarin ｜ Cantonese <br/>
 
 

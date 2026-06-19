@@ -11,8 +11,6 @@ permalink: /zh/
 >
 ### 家庭关系研究学者｜联邦资助项目负责人｜家庭教育工作坊讲师
 >
-<a href="/zh/"><img style="float: right; width: 340px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
->
 >🏛️ 5项美国联邦资助研究项目
 >
 >📚 20+ 同行评审学术论文
@@ -26,6 +24,8 @@ permalink: /zh/
 ---
 
 ## 关于我
+>
+<a href="/zh/"><img style="float: right; width: 340px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
 >
 >我的研究聚焦于**亲子关系、夫妻关系与家庭教养**，致力于用科学研究帮助面临压力与逆境的家庭。
 >

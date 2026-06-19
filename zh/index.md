@@ -3,9 +3,6 @@ layout: page-zh
 title: 桦林博士
 permalink: /zh/
 ---
-
-***********
->
 ## 桦林博士（Hua Lin, Ph.D
 >
 >俄克拉荷马州立大学人类发展与家庭科学系研究副教授

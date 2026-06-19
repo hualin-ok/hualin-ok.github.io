@@ -25,7 +25,7 @@ permalink: /zh/
 
 ## 关于我
 >
-<a href="/zh/"><img style="float: right; width: 400px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
+<a href="/zh/"><img style="float: right; width: 450px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
 >
 >我的研究聚焦于**亲子关系、夫妻关系与家庭教养**，致力于用科学研究帮助面临压力与逆境的家庭。
 >

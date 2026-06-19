@@ -68,6 +68,12 @@ permalink: /zh/
 > - 联合项目负责人
 > - 经费：$148,600
 > - 申请评审成绩位列同期NIH申请前2%）
->
-> - 
+
+## 联系方式
+> [experts@OSU](https://experts.okstate.edu/hua.lin/) <br/>
+> [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)  <br/>
+> [ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)
+> [Webpage](https://hualin-ok.github.io/)  <br/>
+> [hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)
+> 
 → [家庭工作坊](/zh/workshops/) &nbsp;&nbsp; → [研究者说](/zh/insights/)

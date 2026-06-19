@@ -5,15 +5,23 @@ permalink: /about/
 ---
 
 *************
+## Hua Lin, Ph.D.
+>
+>Research Associate Professor
+>Department of Human Development and Family Science
+>Oklahoma State University
+>
+>### Family Relations Scholar ｜ Federally Funded Research Investigator ｜ Parenting Education Instructor
 
-## About Me
-> Hua Lin, Ph.D <br/>
+> 🏛️ 5 federally funded research projects <br/>
 > Research Associate Professor <br/>
 > Developmental and family scientist <br/>
 > Quantitative research methodologist <br/>
 > PI/Co-I & program evaluator on multiple federally funded projects <br/>  
 > *Department of Human Development and Family Science* <br/>
 > @Oklahoma State University <br/>
+
+## About Me
 
 ## Contact Me
 > [experts@OSU](https://experts.okstate.edu/hua.lin/) <br/>

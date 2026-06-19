@@ -11,7 +11,7 @@ permalink: /zh/
 >
 ### 家庭关系研究学者｜联邦资助项目负责人｜家庭教育工作坊讲师
 >
-<a href="/zh/"><img style="float: right; width: 400px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
+<a href="/zh/"><img style="float: right; width: 350px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
 >
 >
 >🏛️ 5项美国联邦资助研究项目

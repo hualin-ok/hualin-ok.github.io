@@ -10,11 +10,9 @@ permalink: /zh/
 >
 <a href="/zh/"><img style="float: right; width: 400px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
 >
->**桦林博士（Hua Lin, Ph.D.）**
+>**桦林博士（Hua Lin, Ph.D.）**， 研究副教授
 >
 >俄克拉荷马州立大学人类发展与家庭科学系
->
->研究副教授
 >
 >- 发展科学与家庭关系研究学者
 >- 定量研究方法专家

@@ -18,7 +18,7 @@ permalink: /about/
 > - 20+ peer-reviewed publications <br/>
 > - 70+ research and evaluation reports <br/>
 > - 20+ parenting and family education workshops <br/>  
-> 🌏 English ｜ Mandarin ｜ Cantonese <br/>
+> - English ｜ Mandarin ｜ Cantonese <br/>
 
 
 ## About Me

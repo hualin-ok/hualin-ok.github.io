@@ -25,11 +25,11 @@ permalink: /zh/
 
 ## 关于我
 >
-<a href="/zh/"><img style="float: right; width: 450px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
->
 >我的研究聚焦于**亲子关系、夫妻关系与家庭教养**，致力于用科学研究帮助面临压力与逆境的家庭。
 >
 >我持有积极教养（Active Parenting）认证，并在华人社区、教会及各类家庭组织主持了逾二十场亲子与家庭工作坊，努力将研究转化为普通家庭可以殂和实践的对话。
+>
+<a href="/zh/"><img style="float: right; width: 400px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
 >
 >长期以来，我关注家庭在**不同文化和生活压力下的适应与韧性**，例如，移民相关压力如何影响亲子关系与青少年发展，父母的教养方式如何塑造青少年健康与行为，以及家庭教育与社区支持如何帮助家庭缓冲压力、重建关系，并增强韧性。
 >

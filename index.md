@@ -26,7 +26,7 @@ My research spans three connected areas:
 ## Workshops & Community Engagement
 >
 >Alongside my research, I design and facilitate workshops for families in universities, community organizations, and faith communities. These workshops translate research into practical, culturally grounded conversations for everyday family life.
->
+
 ## Selected Workshop Areas
 >
 > ### Parenting & Child Development
@@ -46,7 +46,7 @@ My research spans three connected areas:
 > (specific applied topics)
 >
 >[More...](/research)
->
+
 ## Closing
 
 >I believe research should not remain only in academic journals, but also help families better understand one another and strengthen everyday relationships.

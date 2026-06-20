@@ -48,21 +48,21 @@ Alongside my research, I design and facilitate workshops for families in univers
 
 ## Family & Parenting Worshops
 
- ### Parenting & Child Development
+### Parenting & Child Development
 
- (helping parents build strong relationships and support healthy development)
+(helping parents build strong relationships and support healthy development)
 
- ### Family Culture & Values
+### Family Culture & Values
 
- (how families develop meaning, identity, and long-term relational patterns)
+(how families develop meaning, identity, and long-term relational patterns)
 
- ### Parenting Across Cultures
+### Parenting Across Cultures
 
- (immigrant and bicultural family experiences)
+(immigrant and bicultural family experiences)
 
- ### Standalone Workshops
+### Standalone Workshops
 
- (specific applied topics)
+(specific applied topics)
 
 [More...](/workshops/#Family Foundations: Building Strong Relationships)
 

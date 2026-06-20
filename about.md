@@ -26,7 +26,7 @@ permalink: /about/
 >
 >My research spans three connected areas. I study **parent-child relationships** — how parenting goals, parental competence, and family dynamics shape children's social and emotional development over time. I examine **family resilience under stress**, including how stressors such as immigration-related challenges affect adolescent health and how psychoeducational interventions can buffer those effects. And I work on **quantitative methods** — developing better approaches to causal inference in longitudinal, non-randomized research, including propensity score methods, structural equation modeling, latent class analysis, and cross-cultural psychometrics.
 >
-<a href="/home/"><img style="float: right; width: 500px; margin: 0px 5px 5px" src="images/Family3-1.jpg"></a>
+<a href="/zh/"><img style="float: right; width: 450px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
 >
 > My early training in physics continues to inform my approach to quantitative research, particularly in how I think about structure, modeling, and inference in complex developmental systems.
 > 

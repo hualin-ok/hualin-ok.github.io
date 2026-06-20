@@ -4,8 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+----
 <h1>{{ page.title }}</h1>
-
 ---
 
 ## Grants Funded

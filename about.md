@@ -20,7 +20,7 @@ permalink: /about/
 > - 20+ parenting and family education workshops <br/>  
 > - English ｜ Mandarin ｜ Cantonese <br/>
 
-
+*******
 ## About Me
 <a href="/zh/"><img style="float: right; width: 450px; margin: 0px 5px 20px" src="/images/Family3-1.jpg"></a>
 >
@@ -36,7 +36,7 @@ permalink: /about/
 >Alongside my research, I have spent years bringing this work into communities. I am a certified Active Parenting instructor and have facilitated more than twenty parenting workshops — in university settings, community organizations, and faith communities — translating research into practical conversations for real families. I am fluent in Mandarin, Cantonese, and English, which has shaped both where I do this work and how.
 >
 >I came to family science in part because I live it. Raising children between two cultures is its own kind of education, and that experience runs underneath my research without defining it.
-
+***************
 ## Contact Me
 > [experts@OSU](https://experts.okstate.edu/hua.lin/) <br/>
 > [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)  <br/>

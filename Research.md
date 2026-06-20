@@ -9,6 +9,8 @@ permalink: /research/
 >
 ### The Development of Parent-child Interactions
 >
+>One of my research interests is the development of [**parent-child interactions**](/research/#the-development-of-parent-child-interactions), in that I focus on momentary parenting goals, parental competency, and social withdrawal. I was certified by Active Parenting in 2015 for teaching “Active parenting 4th edition” and “Parenting Your 1- to 4-Year-Old.”
+>
 > - Larzelere, R. E., Knowles, S. J., Adkison-Johnson, C., Cox, R. B., **Lin. H.**, & Mandara, J. (2023). Ethnic Differences in the Effects of Five Disciplinary Techniques on Subsequent Externalizing Behavior Problems. *Marriage and Family Review*. https://doi.org/10.1080/01494929.2023.2199732
 >
 > - Larzelere, R. E., Ritchie, K. L., Knowles, S. J., Curtis, J., **Lin H.**, Oliver, M. G., Bigler, J. F., & Larzelere W. A. (2022). Immediate and longer-term effects of modeling desired behavior and collaborating when toddlers are noncompliant. Journal of Child and Family Studies. https://doi.org/10.1007/s10826-022-02367-1

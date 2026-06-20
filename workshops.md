@@ -64,7 +64,7 @@ Topics include:
 
 ---
 
-# Data & Software Workshops
+# Researh, Data & Software Workshops
 
 >In addition to my work with families, I have extensive experience teaching research methods, data analysis, and open-source computing tools to graduate students, faculty, and researchers.
 >
@@ -72,6 +72,7 @@ Topics include:
 
 **Past workshops include:**
 
+- Making Casual Inference in Nonrandomized Studies
 - R for Data Analysis and Visualization
 - Python for Research
 - Data Carpentry (Spreadsheets, OpenRefine, and R)

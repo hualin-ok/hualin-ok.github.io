@@ -27,6 +27,8 @@ permalink: /research/
 >
 ### Resilience in Immigrant Families
 >
+> My research interest in [**immigrant family well-being**](/research/#resilience-in-immigrant-families) focuses on how immigrant-related stress impacts adolescent health and behavior and how a psycho-educational intervention can buffer against stress and/or ameliorate the effects of stress in immigrant families from a resilience perspective.
+>
 > - **Lin, H.**, Greder, K., Larzelere, R. E.,  Washburn, I. J. & Cox. Jr., R. B, (2025). The influence of parent-youth shared language erosion on Hispanic immigrant youth anxiety problems. *Journal of Nervous and Mental Disease*. 213(7), 180-185. https://doi.org/10.1097/NMD.0000000000001842
 >
 > - Cox, R. B., **Lin, H.**, Larzelere, R. E., & Bao J., (2023). Fear of deportation, stress, and Hispanic early adolescents’ substance use: hope as a moderator. *Prevention Science*. https://doi.org/10.1007/s11121-023-01593-3

@@ -66,9 +66,9 @@ Topics include:
 
 # Researh, Data & Software Workshops
 
->In addition to my work with families, I have extensive experience teaching research methods, data analysis, and open-source computing tools to graduate students, faculty, and researchers.
->
-> I am a certified [Data Carpentry](https://datacarpentry.org/) instructor and have taught workshops on research computing, data analysis, and open-source tools for graduate students and faculty through the [OSU Carpentry Organization](https://osu-carpentry.github.io/).
+In addition to my work with families, I have extensive experience teaching research methods, data analysis, and open-source computing tools to graduate students, faculty, and researchers.
+
+I am a certified [Data Carpentry](https://datacarpentry.org/) instructor and have taught workshops on research computing, data analysis, and open-source tools for graduate students and faculty through the [OSU Carpentry Organization](https://osu-carpentry.github.io/).
 
 **Past workshops include:**
 

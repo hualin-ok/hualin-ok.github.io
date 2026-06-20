@@ -62,10 +62,10 @@ Alongside my research, I design and facilitate workshops for families in univers
 
  (specific applied topics)
 
-[More...](/workshops)
+[More...](/workshops/#Family Foundations: Building Strong Relationships)
 
 
-## Reearch,Data & Statistics Worshops
+## Reearch, Data, & Software Worshops
 In addition to my work with families, I have extensive experience teaching research methods, data analysis, and open-source computing tools to graduate students, faculty, and researchers.
 
 Topics include:
@@ -77,6 +77,8 @@ Topics include:
 * Python for Research
 * Data Carpentry
 * Software Carpentry
+
+[More...](/workshops/#Research, Data, & Software Workshops)
 
 # Closing
 

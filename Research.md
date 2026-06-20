@@ -5,7 +5,9 @@ permalink: /research/
 ---
 
 <h1>{{ page.title }}</h1>
-******
+
+---
+
 ## Grants Funded
 
 - *2023*    Oklahoma Tobacco Settlement Endowment Trust Programs G100063367 (2024-2027). Unidos Against Tobacco. $750,000. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
@@ -20,8 +22,7 @@ permalink: /research/
 
 - *2021*    National Institute of Food and Agriculture, 2018-41520-28907 (2021-2026). CYFAR Oklahoma State University and West Virginia University Multi-State Sustainable Community Project The United We Can: Positive Youth Development Program ($1,280,000). Cox Jr. (MPI), Role: Co-I, Project Evaluator – FTE = 20%.
 
-
-***********
+---
 ## Research Interests
 
 ### The Development of Parent-child Interactions

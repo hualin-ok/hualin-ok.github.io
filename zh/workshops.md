@@ -1,7 +1,7 @@
 ---
 layout: page-zh
 title: 家庭工作坊
-
+permalink: /zh/家庭工作坊/
 ---
 
 ***********

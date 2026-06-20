@@ -62,7 +62,7 @@ Alongside my research, I design and facilitate workshops for families in univers
 
  (specific applied topics)
 
-[More...](/research)
+[More...](/workshops)
 
 
 ## Reearch,Data & Statistics Worshops

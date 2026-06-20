@@ -6,6 +6,7 @@ permalink: /research/
 
 ----
 #{{ page.title }}
+
 ---
 
 ## Grants Funded

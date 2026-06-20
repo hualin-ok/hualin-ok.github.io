@@ -15,6 +15,8 @@ title: Welcome
 
 [More...](/about)
 
+---
+
 # Research Area
 
 My research spans three connected areas:
@@ -41,6 +43,8 @@ My research spans three connected areas:
  - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [doi:10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).
 
 [More...](/publications)
+
+---
 
 # Workshops & Community Engagement
 
@@ -81,6 +85,8 @@ Topics include:
 * Software Carpentry
 
 [More...](/workshops/#Research, Data, & Software Workshops)
+
+---
 
 # Closing
 

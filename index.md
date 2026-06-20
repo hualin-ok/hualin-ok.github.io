@@ -7,7 +7,11 @@ title: Welcome
 
 <h2>{{ page.title }}</h2>
 
-> Welcome to **Hua Lin**'s webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a research associate professor in the [Center for Immigrant Health and Eduation](https://education.okstate.edu/research/centers/center-immigrant-health-education/) at Oklahoma State University. My work focuses on how family relationships, parenting processes, and cultural context shape child and adolescent development in families experiencing stress and transition.
+> Welcome to **Hua Lin**'s webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a research associate professor in the Department of Human Development and Family Science at Oklahoma State University.
+> 
+> My work focuses on how family relationships, parenting, and cultural contexts shape child and adolescent development. Through both research and community engagement, I seek to better understand how families navigate stress, adversity, and change.
+>
+> My research has been supported by the National Institutes of Health (NIH), the U.S. Department of Agriculture (USDA), and other funding agencies.
 
 ## Research Area
 
@@ -41,8 +45,10 @@ My research spans three connected areas:
 >
 > (specific applied topics)
 >
-## Closing
+>[More...](/research)
 >
+## Closing
+
 >I believe research should not remain only in academic journals, but also help families better understand one another and strengthen everyday relationships.
 >
 ***********************

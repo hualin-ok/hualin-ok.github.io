@@ -49,6 +49,8 @@ permalink: /research/
 >
 ### Making Causal Inference in Longitudinal Analyses
 >
+> My research interest in [**quantitative methods**](/research/#making-causal-inference-in-longitudinal-analyses) is enhancing causal evidence from non-randomized longitudinal research designs, cross-cultural psychometric appropriations (including Item Response Theory), and statistic model comparison (mediation moderation, propensity score matching, SEM models, MLM models, Latent class analysis, dual-centered ANCOVA, etc.).
+>
 > - Larzelere, R. E. & **Lin, H.** (2025). An innovation to test treatment X Pretest Interactions with difference-in-differences. *Journal of Behavioral Data Science*. 5(1), 1–28. https://doi.org/10.35566/jbds/larzelere
 >
 > - Brorsen W., **Lin, H.**, & Larzelere, R. E. (2025). Critique of enhanced power claimed for quasi-ANCOVA and dual-centered ANCOVA. *PLoS One*, 20(1), e0317860. https://doi.org/10.1371/journal.pone.0317860

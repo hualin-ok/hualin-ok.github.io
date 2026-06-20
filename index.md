@@ -20,8 +20,12 @@ My research spans three connected areas:
 * Parent–child relationships and developmental processes
 * Family resilience under stress and adversity
 * Quantitative methods for longitudinal and causal inference
->
 > [More...](/research)
+> 
+## Selected Publications
+>
+>
+
 
 ## Workshops & Community Engagement
 >

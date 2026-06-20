@@ -6,13 +6,11 @@ permalink: /workshops/
 
 ***********
 
-## Community Workshops on Family & Parenting
+# Community Workshops on Family & Parenting
 
 I design and facilitate workshops for churches, schools, and community organizations, translating research on parenting, family relationships, and child development into conversations that are practical, culturally grounded, and relevant to everyday family life.
 
 Drawing on both research and years of engagement with families, these workshops address common challenges faced by parents raising children in an increasingly complex world. I also hold an **Active Parenting** facilitator certification.
-
----
 
 ### Family Foundations: Building Strong Relationships
 
@@ -26,7 +24,6 @@ Topics include:
 - The Need to Love and Be Loved
 - Reconciliation and Forgiveness
 
----
 ### Parenting & Child Development
 Research-informed workshops designed to help parents build stronger relationships with their children and support healthy development from childhood through adolescence.
 
@@ -41,7 +38,6 @@ Topics include:
 - Preparing Children for Adolescence
 - Boundaries, Respect, and Personal Safety
 
----
 ### **Family Culture & Value
 
 These workshops focus on how families develop shared values, identity, and a sense of meaning over time. They explore how couple relationships and parenting systems shape the emotional climate of the family, and how parents can intentionally build long-term patterns of connection, resilience, and shared purpose.
@@ -49,10 +45,9 @@ These workshops focus on how families develop shared values, identity, and a sen
 Topics include:
 
 - How Couple Relationships Shape Children
--  Building a Resilient, Values-Grounded Family Culture
+- Building a Resilient, Values-Grounded Family Culture
 - Passing on Values and Faith Across Generations
 
-----
 ### Parenting Across Two Cultures
 
 In addition to general parenting topics, I also facilitate workshops and discussions focused on the opportunities and challenges faced by immigrant, bicultural, and Chinese American families. These conversations often explore intergenerational differences, cultural adaptation, identity development, and family life across cultural contexts. If you are interested in bringing this conversation to your community, I'd love to connect.
@@ -61,7 +56,6 @@ Topics include:
 
 - Parenting in the United States: Challenges and Adaptation for Newly Immigrant Families
 
----
 ### Selected Standalone Workshops
 
 - **No Yelling, No Controlling, No Tiger Parenting: A Family Dialogue on Guided Growth**
@@ -70,7 +64,7 @@ Topics include:
 
 ---
 
-## Data & Software Workshops
+# Data & Software Workshops
 
 >In addition to my work with families, I have extensive experience teaching research methods, data analysis, and open-source computing tools to graduate students, faculty, and researchers.
 >

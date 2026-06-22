@@ -33,4 +33,4 @@ permalink: /zh/research/
 - 经费：$148,600
 - 申请评审成绩位列同期NIH申请前2%）
 
-[详细内容见英文页面](../research)
+[详细内容见英文页面](/research)

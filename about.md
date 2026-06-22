@@ -2,8 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
----
+*******
 ## Hua Lin, Ph.D.
 
 Research Associate Professor

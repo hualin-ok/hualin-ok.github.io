@@ -1,9 +1,10 @@
 ---
 layout：page-zh
 title: 研究项目
-permalink: /zh/
+permalink: /zh/research/
 ---
 
+---
 ## 代表性资助研究项目
 
 ### 华人移民家庭共同语言流失研究

@@ -38,7 +38,7 @@ Topics include:
 - Preparing Children for Adolescence
 - Boundaries, Respect, and Personal Safety
 
-### **Family Culture & Value
+### Family Culture & Value
 
 These workshops focus on how families develop shared values, identity, and a sense of meaning over time. They explore how couple relationships and parenting systems shape the emotional climate of the family, and how parents can intentionally build long-term patterns of connection, resilience, and shared purpose.
 

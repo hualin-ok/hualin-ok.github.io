@@ -1,5 +1,5 @@
 ---
-layout：page-zh
+layout: page-zh
 title: 研究项目
 permalink: /zh/research/
 ---

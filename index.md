@@ -50,7 +50,7 @@ My research spans three connected areas:
 
 Alongside my research, I design and facilitate workshops for families in universities, community organizations, and faith communities. These workshops translate research into practical, culturally grounded conversations for everyday family life.
 
-## Family & Parenting Worshops
+## Family & Parenting Workshops
 
 ### Parenting & Child Development
 
@@ -71,7 +71,7 @@ Alongside my research, I design and facilitate workshops for families in univers
 [More...](/workshops/#Family Foundations: Building Strong Relationships)
 
 
-## Reearch, Data, & Software Worshops
+## Reearch, Data, & Software Workshops
 In addition to my work with families, I have extensive experience teaching research methods, data analysis, and open-source computing tools to graduate students, faculty, and researchers.
 
 Topics include:

@@ -64,7 +64,7 @@ Topics include:
 
 ---
 
-# Researh, Data & Software Workshops
+# Research, Data & Software Workshops
 
 In addition to my work with families, I have extensive experience teaching research methods, data analysis, and open-source computing tools to graduate students, faculty, and researchers.
 

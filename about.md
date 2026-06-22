@@ -42,6 +42,6 @@ I came to family science in part because I live it. Raising children between two
 [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)  <br/>
 [ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)
 [Webpage](https://hualin-ok.github.io/)  <br/>
-[hua.lin@okstate.edu](mailto:hua.lin@dokstate.edu)  <br/>
+[hua.lin@okstate.edu](mailto:hua.lin@okstate.edu)  <br/>
 
 *****************

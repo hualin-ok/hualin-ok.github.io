@@ -72,7 +72,7 @@ I am a certified [Data Carpentry](https://datacarpentry.org/) instructor and hav
 
 **Past workshops include:**
 
-- Making Casual Inference in Nonrandomized Studies
+- Making Causal Inference in Nonrandomized Studies
 - R for Data Analysis and Visualization
 - Python for Research
 - Data Carpentry (Spreadsheets, OpenRefine, and R)

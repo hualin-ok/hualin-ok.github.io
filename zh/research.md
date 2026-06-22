@@ -1,8 +1,8 @@
 ---
-layout page-zh
+layout：page-zh
 title: 研究项目
+permalink: /zh/
 ---
-
 
 ## 代表性资助研究项目
 

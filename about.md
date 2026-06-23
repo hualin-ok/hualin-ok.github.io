@@ -16,7 +16,7 @@ Department of Human Development and Family Science
 - 5 federally funded research projects <br/>
 - Over $2.4 million in total research funding <br/>
 - 20+ peer-reviewed publications <br/>
-- 70+ research and evaluation reports <br/>
+- 70+ research presentations <br/>
 - 20+ parenting and family education workshops <br/>  
 - English ｜ Mandarin ｜ Cantonese <br/>
 
@@ -26,7 +26,7 @@ Department of Human Development and Family Science
 
 I am a developmental and family scientist and quantitative research methodologist, serving as Research Associate Professor in the Department of Human Development and Family Science at Oklahoma State University. My work sits at the intersection of family relationships, child and adolescent well-being, and research methods — with a particular focus on families navigating stress and adversity.
 
-My research spans three connected areas. I study **parent-child relationships** — how parenting goals, parental competence, and family dynamics shape children's social and emotional development over time. I examine **family resilience under stress**, including how stressors such as immigration-related challenges affect adolescent health and how psychoeducational interventions can buffer those effects. And I work on **quantitative methods** — developing better approaches to causal inference in longitudinal, non-randomized research, including propensity score methods, structural equation modeling, latent class analysis, and cross-cultural psychometrics.
+My research spans three connected areas. I study **parent-child relationships** — how parenting goals, parental competence, and family dynamics shape children's social and emotional development over time. I examine ** family resilience under stress**, including how stressors such as immigration-related challenges affect adolescent health and how psychoeducational interventions can buffer those effects. And I work on **quantitative methods** — developing better approaches to causal inference in longitudinal, non-randomized research, including propensity score methods, structural equation modeling, latent class analysis, and cross-cultural psychometrics.
 
 My early training in physics continues to inform my approach to quantitative research, particularly in how I think about structure, modeling, and inference in complex developmental systems.
  

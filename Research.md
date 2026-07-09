@@ -10,17 +10,42 @@ permalink: /research/
 
 ## Grants Funded
 
-- *2023*    Oklahoma Tobacco Settlement Endowment Trust Programs G100063367 (2024-2027). Unidos Against Tobacco. $750,000. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
+### Unidos Against Tobacco
+- **Funding Agency:** Oklahoma Tobacco Settlement Endowment Trust Programs G100063367 (2024-2027)
+- **Role:** Co-Principal Investigator
+- **Funding:** $750,000. 
 
-- *2023*    National Institute of Child Health and Human Development R15 HD112867-01 (2023-2026). Shared Language Erosion Among Chinese Immigrant Families. $448,800. Principal Investigator – FTE = 21%.
+### Shared Language Erosion Among Chinese Immigrant Families
+- **Funding Agency:** National Institute of Child Health and Human Development (NICHD), R15 HD112867-01 (2023–2026)
+- **Role:** Principal Investigator
+- **Funding:** $448,800
 
-- *2023*    National Institute of Child Health and Human Development R15 HD112895-01 (2023-2026). Randomized Control Trial of the Co-Parenting for Resilience Program. $443,317. Cox Jr. (PI), Role: Co-Principal Investigator – FTE = 15%.
+### Randomized Controlled Trial of the Co-Parenting for Resilience Program
 
-- *2023*    United States Department of Agriculture (2023-2028). Oklahoma State University Sustainable Community Project – The United We Can: Positive Youth Development Program. $640,000. Cox Jr. (PI), Role: Co-I, Project Evaluator – FTE = 15%.
+- **Funding Agency:** National Institute of Child Health and Human Development (NICHD), R15 HD112895-01 (2023–2026)
+- **Role:** Co-Principal Investigator
+- **Funding:** $443,317
+- **PI:** Ronald J. Cox, Jr.
 
-- *2021*   National Institute of Child Health and Human Development R03 HD107307 (2021-2023). Improving Causal Inferences in Child and Family Behavioral Research (ranked in the top 2% of all NIH submissions, awarded in Sep. 2021). $148,600. Co-Principal Investigator – FTE = 33%.
+### The United We Can: Positive Youth Development Program
 
-- *2021*    National Institute of Food and Agriculture, 2018-41520-28907 (2021-2026). CYFAR Oklahoma State University and West Virginia University Multi-State Sustainable Community Project The United We Can: Positive Youth Development Program ($1,280,000). Cox Jr. (MPI), Role: Co-I, Project Evaluator – FTE = 20%.
+- **Funding Agency:** United States Department of Agriculture (USDA), Oklahoma State University Sustainable Community Project (2023–2028)
+- **Role:** Co-Principal Investigator, Project Evaluator
+- **Funding:** $640,000
+- **PI:** Ronald J. Cox, Jr.
+
+### Improving Causal Inferences in Child and Family Behavioral Research
+
+- **Funding Agency:**  National Institute of Child Health and Human Development (NICHD), R03 HD107307 (2021–2023)
+- **Role:** Co-Principal Investigator
+- **Funding:** $148,600
+- **ote:** Ranked in the top 2% of all NIH applications in the review cycle; funded September 2021.
+
+### The United We Can: Positive Youth Development Program
+
+- **Funding Agency:** National Institute of Food and Agriculture (NIFA), 2018-41520-28907 (2021–2026)
+- **Role:** Co-Principal Investigator, Project Evaluator
+- **Funding:** $1,280,000
 
 ---
 ## Research Interests

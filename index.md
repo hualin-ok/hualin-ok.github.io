@@ -7,11 +7,9 @@ title: Hua Lin, Ph.D.
 
 <h1>{{ page.title }}</h1>
 
-Research Associate Professor<br>
-Department of Human Development and Family Science<br>
-Oklahoma State University
+### Research Associate Professor · Developmental & Family Scientist · Quantitative Research Methodologist
 
-### Family Relations Scholar ｜ Federally Funded Research Investigator ｜ Parenting Education Instructor
+Department of Human Development and Family Science  · Oklahoma State University
 
 - 5 federally funded research projects
 - Over $2.4 million in total research funding
@@ -50,69 +48,45 @@ I am a certified **Active Parenting** instructor and have designed and facilitat
 
 I believe good research should not remain only in academic journals. **It should find its way into everyday family life — helping families understand one another better and helping parents and children find more opportunities for connection and conversation.**
 
-## Selected Publications
+## Research at A Glance
 
- - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](https://doi.org/10.1016/j.adolescence.2020.04.007).
+### Family Relationships & Child Development
 
- - **Lin, H.,** Richie, K. L., & Larzelere, R. E. (2020). Applying a momentary parenting goal-regulation model to discipline episodes with toddlers. *Journal of Child and Family Studies*, 29, 1055–1069.http://doi.org/10.1007/s10826-020-01698-1.
+Parent-child relationships · Parenting · Child and adolescent well-being · Family dynamics
 
- - **Lin, H.**, Greder, K., Larzelere, R. E.,  Washburn, I. J. & Cox. Jr., R. B, (2025). The influence of parent-youth shared language erosion on Hispanic immigrant youth anxiety problems. *Journal of Nervous and Mental Disease*. 213(7), 180-185. https://doi.org/10.1097/NMD.0000000000001842
+### Family Resilience & Immigrant Families
 
- - **Lin, H.**, & Larzelere, R. E. (2024). Lord’s paradox illustrated in three-wave longitudinal analyses: cross lagged panel models versus linear latent growth models. *Journal of Behavioral Data Science*. 4(2), 51-63. https://doi.org/10.35566/jbds/lin
+Immigration-related stress · Risk and resilience · Chinese American families · Psychoeducational interventions
 
- - **Lin, H.**, & Larzelere, R. E. (2020). Dual-centered ANCOVA: Resolving contradictory results from Lord’s paradox with implications for reducing bias in longitudinal analyses. *Journal of Adolescence*, 85, 135-147. [doi:10.1016/j.adolescence.2020.11.001](https://doi.org/10.1016/j.adolescence.2020.11.001).
+### Quantitative Research Methods
 
- - **Lin, H.**, Cox, R. B., Sahbaz S., Washburn, I. J. Larzelere, R. E. & Greder, K. (2022). Hope for Latina youth: A longitudinal test of Snyder’s Hope Scale. *Family Relations*. https://doi.org/10.1111/fare.12651
+Causal inference · Longitudinal research · Statistical modeling · Cross-cultural measurement
 
- - **Lin, H.** (2020). Probing two-way moderation effects: A review of software to easily plot Johnson-Neyman figures. *Structural Equation Modeling: A Multidisciplinary Journal*, 27, 492-502. [doi:10.1080/10705511.2020.1732826](http://doi.org/10.1080/10705511.2020.1732826).
+My research is supported by the National Institutes of Health, USDA, and other federal agencies. I currently serve as Principal Investigator or Co-Investigator on several federally funded research projects.
 
-[More...](/publications)
+Explore the [research page](/research).
 
 ---
 
-# Workshops & Community Engagement
+# From Research to Practice
 
-Alongside my research, I design and facilitate workshops for families in universities, community organizations, and faith communities. These workshops translate research into practical, culturally grounded conversations for everyday family life.
+I bring research into practice through two complementary forms of teaching and engagement.
 
 ## Family & Parenting Workshops
 
-### Parenting & Child Development
+Research-informed conversations on parenting, child development, family relationships, and family life across cultures.
 
-(helping parents build strong relationships and support healthy development)
+## Research, Data & Software Workshops
 
-### Family Culture & Values
+Training for graduate students, faculty, and researchers in research design, quantitative methods, data analysis, and open-source computing.
 
-(how families develop meaning, identity, and long-term relational patterns)
-
-### Parenting Across Cultures
-
-(immigrant and bicultural family experiences)
-
-### Standalone Workshops
-
-(specific applied topics)
-
-[More...](/workshops/#Family Foundations: Building Strong Relationships)
-
-
-## Reearch, Data, & Software Workshops
-In addition to my work with families, I have extensive experience teaching research methods, data analysis, and open-source computing tools to graduate students, faculty, and researchers.
-
-Topics include:
-
-* Research Disign
-* Causal Inference in Nonrondomized Studies
-* Longitudinal Data Analysis
-* R for Data Analysis and Visualization
-* Python for Research
-* Data Carpentry
-* Software Carpentry
-
-[More...](/workshops/#Research, Data, & Software Workshops)
+Explore [workshops](/workshops/).
 
 ---
 
-## Contact
+## Connect
+
+For research collaboration, community workshops, speaking engagements, or other inquiries:
 
 - [Oklahoma State University Experts](https://experts.okstate.edu/hua.lin/)
 - [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)

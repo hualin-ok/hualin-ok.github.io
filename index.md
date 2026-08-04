@@ -68,15 +68,15 @@ Explore the [research page](/research).
 
 ---
 
-# From Research to Practice
+## From Research to Practice
 
 I bring research into practice through two complementary forms of teaching and engagement.
 
-## Family & Parenting Workshops
+### Family & Parenting Workshops
 
 Research-informed conversations on parenting, child development, family relationships, and family life across cultures.
 
-## Research, Data & Software Workshops
+### Research, Data & Software Workshops
 
 Training for graduate students, faculty, and researchers in research design, quantitative methods, data analysis, and open-source computing.
 

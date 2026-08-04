@@ -1,31 +1,55 @@
 ---
 layout: page
-title: Welcome
+title: Hua Lin, Ph.D.
 ---
 
 ***********
 
 <h1>{{ page.title }}</h1>
 
- Welcome to **Hua Lin**'s webpage. I am a developmental and family scientist and quantitative research methodologist, serving as a research associate professor in the Department of Human Development and Family Science at Oklahoma State University.
- 
- My work focuses on how family relationships, parenting, and cultural contexts shape child and adolescent development. Through both research and community engagement, I seek to better understand how families navigate stress, adversity, and change.
+Research Associate Professor<br>
+Department of Human Development and Family Science<br>
+Oklahoma State University
 
- My research has been supported by the National Institutes of Health (NIH), the U.S. Department of Agriculture (USDA), and other funding agencies.
+### Family Relations Scholar ｜ Federally Funded Research Investigator ｜ Parenting Education Instructor
 
-[More...](/about)
+- 5 federally funded research projects
+- Over $2.4 million in total research funding
+- 20+ peer-reviewed publications
+- 70+ research presentations
+- 20+ parenting and family education workshops
+- English ｜ Mandarin ｜ Cantonese
 
 ---
 
-# Research Area
+## About Me
 
-My research spans three connected areas:
+<a href="/zh/"><img style="float: right; width: 450px; margin: 0px 5px 20px" src="/images/Family3-1.jpg" alt="Hua Lin with family"></a>
 
-* Parent–child relationships and developmental processes
-* Family resilience under stress and adversity
-* Quantitative methods for longitudinal and causal inference
- [More...](/research)
- 
+I began my academic journey in physics. After coming to the United States, I gradually discovered that understanding the complexity of child development and family life was far more challenging than understanding the regularity of physical systems. That realization led me to rethink my academic path and eventually find my way into developmental and family science.
+
+As a mother, I also find myself thinking deeply about questions that many families face. Watching my children grow up between cultures, I continually ask: **What kinds of parenting truly support children’s development? And when families face stress, change, and uncertainty, what helps them stay connected and resilient?**
+
+These questions are at the heart of my work as a **developmental and family scientist**. I study family relationships, parenting, and family resilience, with a particular interest in families navigating stress and adversity. My research examines how parenting and family interactions shape children’s and adolescents’ development, how immigration-related stress affects family well-being, and how interventions and community supports can strengthen families.
+
+**Methods & Evidence**
+
+I am also a **quantitative research methodologist**, interested in how we can produce stronger evidence about the complex processes that shape family life. My methodological work focuses on causal inference in longitudinal, non-randomized research, including propensity score methods, structural equation modeling, mediation and moderation, latent class analysis, and cross-cultural measurement.
+
+My early training in physics continues to shape how I think about structure, modeling, and inference in complex developmental systems. At the same time, studying real families reminds me that statistical models are tools for understanding human lives, not substitutes for them.
+
+**Families Across Cultures**
+
+As an immigrant scholar who has lived in the United States for many years, my experience of raising children between two cultures has broadened how I understand family, culture, and development. This perspective is particularly important in my work with immigrant families, including Chinese American families, where I study both the challenges families face and the strengths that help them navigate change.
+
+**From Research to Families**
+
+I believe that understanding families should not stop with research.
+
+I am a certified **Active Parenting** instructor and have designed and facilitated more than twenty parenting and family education workshops in communities, churches, universities, and other organizations. Through this work, I try to connect research with the questions families are actually asking and translate scientific knowledge into conversations that are practical and relevant to everyday family life.
+
+I believe good research should not remain only in academic journals. **It should find its way into everyday family life — helping families understand one another better and helping parents and children find more opportunities for connection and conversation.**
+
 ## Selected Publications
 
  - **Lin, H.**, Harrist, A. W., Lansford, J. E., Dodge, K. A., Bates, J. E., & Pettit, G. S. (2020). Adolescent social withdrawal, parental psychological control, and parental monitoring knowledge across seven years: A developmental cascade model. *Journal of Adolescence*, 81, 124-134. [doi:10.1016/j.adolescence.2020.04.007](https://doi.org/10.1016/j.adolescence.2020.04.007).
@@ -88,8 +112,11 @@ Topics include:
 
 ---
 
-# Closing
+## Contact
 
-I believe research should not remain only in academic journals, but also help families better understand one another and strengthen everyday relationships.
+- [Oklahoma State University Experts](https://experts.okstate.edu/hua.lin/)
+- [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)
+- [hua.lin@okstate.edu](mailto:hua.lin@okstate.edu)
 
 ***********************

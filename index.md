@@ -48,6 +48,8 @@ I am a certified **Active Parenting** instructor and have designed and facilitat
 
 I believe good research should not remain only in academic journals. **It should find its way into everyday family life — helping families understand one another better and helping parents and children find more opportunities for connection and conversation.**
 
+---
+
 ## Research at A Glance
 
 ### Family Relationships & Child Development
@@ -68,7 +70,7 @@ Explore the [research page](/research).
 
 ---
 
-## From Research to Practice
+## Workshops & Teaching
 
 I bring research into practice through two complementary forms of teaching and engagement.
 

@@ -32,19 +32,23 @@ These questions are at the heart of my work as a **developmental and family scie
 
 **Methods & Evidence**
 
-I am also a **quantitative research methodologist**, interested in how we can produce stronger evidence about the complex processes that shape family life. My methodological work focuses on causal inference in longitudinal, non-randomized research, including propensity score methods, structural equation modeling, mediation and moderation, latent class analysis, and cross-cultural measurement.
+A second part of my work asks how we can produce stronger evidence about the complex processes that shape family life.
+
+As a quantitative research methodologist, I study causal inference in longitudinal, non-randomized research. My methodological work includes propensity score methods, structural equation modeling, mediation and moderation, latent class analysis, and cross-cultural measurement.
 
 My early training in physics continues to shape how I think about structure, modeling, and inference in complex developmental systems. At the same time, studying real families reminds me that statistical models are tools for understanding human lives, not substitutes for them.
 
 **Families Across Cultures**
 
-As an immigrant scholar who has lived in the United States for many years, my experience of raising children between two cultures has broadened how I understand family, culture, and development. This perspective is particularly important in my work with immigrant families, including Chinese American families, where I study both the challenges families face and the strengths that help them navigate change.
+As an immigrant scholar who has lived in the United States for many years, my experience of raising children between two cultures has broadened how I understand family, culture, and development. TIt has also given me a wider perspective for recognizing both the differences and commonalities among families from different cultural backgrounds.
+
+This perspective is particularly important in my work with immigrant families, including Chinese American families. I am interested not only in the challenges families face as they adapt to a new cultural environment, but also in the relationships, strengths, and resources that help families navigate change.
 
 **From Research to Families**
 
 I believe that understanding families should not stop with research.
 
-I am a certified **Active Parenting** instructor and have designed and facilitated more than twenty parenting and family education workshops in communities, churches, universities, and other organizations. Through this work, I try to connect research with the questions families are actually asking and translate scientific knowledge into conversations that are practical and relevant to everyday family life.
+Alongside my academic work, I have spent years bringing research into communities. I am a certified **Active Parenting** instructor and have designed and facilitated more than twenty parenting and family education workshops in communities, churches, universities, and other organizations. Through this work, I try to connect research with the questions families are actually asking and translate scientific knowledge into conversations that are practical and relevant to everyday family life.
 
 I believe good research should not remain only in academic journals. **It should find its way into everyday family life — helping families understand one another better and helping parents and children find more opportunities for connection and conversation.**
 
@@ -58,7 +62,7 @@ Parent-child relationships · Parenting · Child and adolescent well-being · Fa
 
 ### Family Resilience & Immigrant Families
 
-Immigration-related stress · Risk and resilience · Chinese American families · Psychoeducational interventions
+Immigration-related stress · Risk and resilience · Chinese American families · Psychoeducational preventions
 
 ### Quantitative Research Methods
 
@@ -66,13 +70,13 @@ Causal inference · Longitudinal research · Statistical modeling · Cross-cultu
 
 My research is supported by the National Institutes of Health, USDA, and other federal agencies. I currently serve as Principal Investigator or Co-Investigator on several federally funded research projects.
 
-Explore the [research page](/research).
+Explore [research](/research).
 
 ---
 
 ## Workshops & Teaching
 
-I bring research into practice through two complementary forms of teaching and engagement.
+I bring my work into practice through two complementary forms of teaching and engagement.
 
 ### Family & Parenting Workshops
 

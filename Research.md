@@ -25,21 +25,19 @@ permalink: /research/
 - **Funding Agency:** National Institute of Child Health and Human Development (NICHD), R15 HD112895-01 (2023–2026)
 - **Role:** Co-Principal Investigator
 - **Funding:** $443,317
-- **PI:** Ronald J. Cox, Jr.
 
 ### The United We Can: Positive Youth Development Program
 
 - **Funding Agency:** United States Department of Agriculture (USDA), Oklahoma State University Sustainable Community Project (2023–2028)
 - **Role:** Co-Principal Investigator, Project Evaluator
 - **Funding:** $640,000
-- **PI:** Ronald J. Cox, Jr.
 
 ### Improving Causal Inferences in Child and Family Behavioral Research
 
 - **Funding Agency:**  National Institute of Child Health and Human Development (NICHD), R03 HD107307 (2021–2023)
 - **Role:** Co-Principal Investigator
 - **Funding:** $148,600
-- **ote:** Ranked in the top 2% of all NIH applications in the review cycle; funded September 2021.
+- **Note:** Ranked in the top 2% of all NIH applications in the review cycle; funded September 2021.
 
 ### The United We Can: Positive Youth Development Program
 

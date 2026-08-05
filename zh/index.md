@@ -45,8 +45,8 @@ permalink: /zh/
 
 如果您对研究合作、家庭教育工作坊、社区讲座或其他交流感兴趣，欢迎与我联系。
 
-⁠⁠⁠[俄克拉荷马州立大学专家主页](https://experts.okstate.edu/hua.lin/) · ⁠
-[Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en) · ⁠
+⁠⁠⁠[俄克拉荷马州立大学专家主页](https://experts.okstate.edu/hua.lin/) <br/> ⁠
+[Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en) <br/> ⁠
 [ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)  <br/>
 [hua.lin@okstate.edu](mailto:hua.lin@okstate.edu)
 

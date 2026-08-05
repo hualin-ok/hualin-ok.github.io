@@ -42,10 +42,9 @@ permalink: /zh/
 ---
 
 ## 联系方式
-[experts@OSU](https://experts.okstate.edu/hua.lin/) <br/>
-[Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en)  <br/>
-[ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)
-[Webpage](https://hualin-ok.github.io/)  <br/>
+⁠⁠⁠[俄克拉荷马州立大学专家主页](https://experts.okstate.edu/hua.lin/) · ⁠
+[Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en) · ⁠
+[ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)  <br/>
 [hua.lin@okstate.edu](mailto:hua.lin@okstate.edu)
 
 -----

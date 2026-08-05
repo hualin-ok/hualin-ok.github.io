@@ -22,7 +22,7 @@ permalink: /zh/
 
 ---
 
-## 简介
+## 关于我
 
 我本科就读于物理学专业。来到美国之后，我逐渐发现，相比物理系统的规律性，理解儿童发展与家庭教养的复杂性更加具有挑战性。这一经历促使我重新探索自己的学术方向，并最终转向家庭科学与人类发展领域。
 
@@ -41,7 +41,10 @@ permalink: /zh/
 
 ---
 
-## 联系方式
+## 联系我
+
+如果您对研究合作、家庭教育工作坊、社区讲座或其他交流感兴趣，欢迎与我联系。
+
 ⁠⁠⁠[俄克拉荷马州立大学专家主页](https://experts.okstate.edu/hua.lin/) · ⁠
 [Google Scholar](https://scholar.google.com/citations?user=tS3Zw8cAAAAJ&hl=en) · ⁠
 [ResearchGate](https://www.researchgate.net/profile/Hua_Lin30)  <br/>

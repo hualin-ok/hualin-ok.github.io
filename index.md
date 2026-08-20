@@ -7,6 +7,8 @@ title: Hua Lin, Ph.D.
 
 <h1>{{ page.title }}</h1>
 
+<p style="text-align: right;"><a href="/zh/">中文</a></p>
+
 ### Research Associate Professor · Developmental & Family Scientist · Quantitative Research Methodologist
 
 Department of Human Development and Family Science  · Oklahoma State University

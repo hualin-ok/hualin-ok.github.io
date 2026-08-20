@@ -51,4 +51,4 @@ permalink: /zh/
 [hua.lin@okstate.edu](mailto:hua.lin@okstate.edu)
 
 -----
-→ [研究项目](/zh/research/) &nbsp;&nbsp; → [家庭工作坊](/zh/workshops/) &nbsp;&nbsp; → [研究者说](/zh/insights/)
+→ [研究项目](/zh/research/) &nbsp;&nbsp; → [家庭工作坊](/zh/workshops/)
